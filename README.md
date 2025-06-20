@@ -82,6 +82,14 @@ If the phase error is never smaller than 1 ms, you need to find proper settings 
 
 Although this approach may perform quite good, stability seems to be an issue, i.e., the phones start in good sync, but the error gradually increases. The only way to combat this is to reinitialize the phase sync approach by tapping the corresponding icon on the OSD of the server phone. 
 
+#### My huawei p20 pro stereo rig
+
+Here are some pictures of my mobile stereo rig with a custom-made 3D printed case. 
+![My-rig](case1.png?raw=true)
+![My-rig](case2.png?raw=true)
+![My-rig](case3.png?raw=true)
+
+
 #### Final thoughts
 It would be great if people try the app and report their findings, to help identifying working stereo rigs, non-working ones, etc. I expect that many older premium phones to perform quite well, but I'm curious about your findings.
 
