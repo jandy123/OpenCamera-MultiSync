@@ -89,7 +89,7 @@ Here are some pictures of my mobile stereo rig with a custom-made 3D printed cas
 ![My-rig](case1.png?raw=true)
 ![My-rig](case2.png?raw=true)
 ![My-rig](case3.png?raw=true)
-
+<img src="case1.png" width="250" height="334"> | <img src="https://y-intelligence.vercel.app/_astro/cover.Bwzr-ZZT_CmAPP.webp" width="300" height="200">
 
 #### Final thoughts
 It would be great if people try the app and report their findings, to help identifying working stereo rigs, non-working ones, etc. I expect that many older premium phones to perform quite well, but I'm curious about your findings.
