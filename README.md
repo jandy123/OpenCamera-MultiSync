@@ -84,10 +84,11 @@ Although this approach may perform quite good, stability seems to be an issue, i
 
 #### My huawei p20 pro stereo rig
 
-Here are some pictures of my mobile stereo rig with a custom-made 3D printed case. 
-![My-rig](case1.png?raw=true)
-![My-rig](case2.png?raw=true)
-![My-rig](case3.png?raw=true)
+Here are some pictures of my mobile stereo rig with a custom-made 3D printed case.
+
+![My-rig](case1.png?raw=true | width=250)
+![My-rig](case2.png?raw=true | width=250)
+![My-rig](case3.png?raw=true | width=250)
 
 
 #### Final thoughts
