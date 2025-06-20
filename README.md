@@ -12,7 +12,7 @@ The current app was developed on top of Multi Remote Camera, an extended version
 * [Libsoftwaresync](https://github.com/google-research/libsoftwaresync) by Ansari et al.
 * [NanoHTTPD](https://github.com/NanoHttpd/nanohttpd)
 * Google Zxing.
-* See additional packages on the Open Camera](https://play.google.com/store/apps/details?id=net.sourceforge.opencamera) website.
+* See additional packages on the [Open Camera](https://play.google.com/store/apps/details?id=net.sourceforge.opencamera) website.
 
 ##### Here you can download the [APK](https://drive.google.com/file/d/1y5k26VtvZo0iWgPKFRRUJqh9WQc-T4dJ/view?usp=drive_link)
 
