@@ -1,0 +1,1382 @@
+[
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xhdpi_switch_camera.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xhdpi/switch_camera.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-hdpi_ic_videocam_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-hdpi/ic_videocam_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi_trash.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-mdpi/trash.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-hdpi_ic_photo_camera_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-hdpi/ic_photo_camera_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi_popup_flash_torch.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-mdpi/popup_flash_torch.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-hdpi_flash_off.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-hdpi/flash_off.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxhdpi_ic_timer_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxhdpi/ic_timer_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/raw_pixel3_phaseconfig.json.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/raw/pixel3_phaseconfig.json"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/layout-v21_notification_template_custom_big.xml.flat",
+        "source": "/home/andrei/.gradle/caches/transforms-2/files-2.1/ccf94a4f227dfa4f17156620e28a8b98/support-compat-28.0.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxhdpi_ic_photo_camera_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxhdpi/ic_photo_camera_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-hdpi_ic_more_horiz_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-hdpi/ic_more_horiz_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/mipmap-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi_focus_mode_continuous_video.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-mdpi/focus_mode_continuous_video.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xhdpi_ic_timer_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xhdpi/ic_timer_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-hdpi_baseline_folder_open_white_48.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-hdpi/baseline_folder_open_white_48.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-hdpi_ic_mic_red_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-hdpi/ic_mic_red_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi_focus_mode_locked.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-mdpi/focus_mode_locked.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxhdpi_expo_icon.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxhdpi/expo_icon.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-hdpi_ic_exposure_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-hdpi/ic_exposure_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxxhdpi_baseline_rotate_right_white_48.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxxhdpi/baseline_rotate_right_white_48.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-hdpi_ic_text_format_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-hdpi/ic_text_format_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-hdpi_baseline_text_fields_white_48.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-hdpi/baseline_text_fields_white_48.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable_circle_background.xml.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable/circle_background.xml"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxhdpi_ic_text_format_red_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxhdpi/ic_text_format_red_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxhdpi_auto_stabilise_icon_red.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxhdpi/auto_stabilise_icon_red.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/home/andrei/.gradle/caches/transforms-2/files-2.1/ccf94a4f227dfa4f17156620e28a8b98/support-compat-28.0.0/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xhdpi_ic_face_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xhdpi/ic_face_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/home/andrei/.gradle/caches/transforms-2/files-2.1/ccf94a4f227dfa4f17156620e28a8b98/support-compat-28.0.0/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxxhdpi_ic_photo_camera_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxxhdpi/ic_photo_camera_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxhdpi_ic_mic_red_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxhdpi/ic_mic_red_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi_take_photo_pref.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-mdpi/take_photo_pref.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxxhdpi_ic_touch_app_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxxhdpi/ic_touch_app_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxxhdpi_ic_videocam_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxxhdpi/ic_videocam_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxxhdpi_ic_exposure_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxxhdpi/ic_exposure_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxhdpi_baseline_photo_library_white_48.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxhdpi/baseline_photo_library_white_48.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/raw_pixel1_phaseconfig.json.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/raw/pixel1_phaseconfig.json"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi_focus_mode_manual.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-mdpi/focus_mode_manual.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-hdpi_settings.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-hdpi/settings.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xhdpi_take_photo_pressed.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xhdpi/take_photo_pressed.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxhdpi_ic_kraken_icon.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/generated/res/pngs/multisync/release/drawable-xxhdpi/ic_kraken_icon.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/layout_listitem_device.xml.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/layout/listitem_device.xml"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxhdpi_ic_timelapse_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxhdpi/ic_timelapse_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxxhdpi_baseline_rotate_left_white_48.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxxhdpi/baseline_rotate_left_white_48.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xhdpi_ic_mic_off_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xhdpi/ic_mic_off_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi_ic_mic_off_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-mdpi/ic_mic_off_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi_focus_mode_continuous_picture.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-mdpi/focus_mode_continuous_picture.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xhdpi_flash_on.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xhdpi/flash_on.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi_flash_off.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-mdpi/flash_off.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxxhdpi_ic_help_outline_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxxhdpi/ic_help_outline_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/layout-v21_notification_action_tombstone.xml.flat",
+        "source": "/home/andrei/.gradle/caches/transforms-2/files-2.1/ccf94a4f227dfa4f17156620e28a8b98/support-compat-28.0.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-hdpi_ic_face_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-hdpi/ic_face_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxhdpi_ic_text_format_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxhdpi/ic_text_format_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xhdpi_take_video_pref.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xhdpi/take_video_pref.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxhdpi_baseline_folder_open_white_48.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxhdpi/baseline_folder_open_white_48.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/raw_pixel3_60fps_phaseconfig.json.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/raw/pixel3_60fps_phaseconfig.json"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi_ic_photo_camera_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-mdpi/ic_photo_camera_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/layout-v16_notification_template_custom_big.xml.flat",
+        "source": "/home/andrei/.gradle/caches/transforms-2/files-2.1/ccf94a4f227dfa4f17156620e28a8b98/support-compat-28.0.0/res/layout-v16/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xhdpi_baseline_folder_open_white_48.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xhdpi/baseline_folder_open_white_48.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/layout_activity_device_select.xml.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/layout/activity_device_select.xml"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xhdpi_share.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xhdpi/share.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi_ic_touch_app_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-mdpi/ic_touch_app_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxhdpi_ic_gps_fixed_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxhdpi/ic_gps_fixed_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-hdpi_ic_burst_mode_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-hdpi/ic_burst_mode_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi_baseline_rotate_right_white_48.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-mdpi/baseline_rotate_right_white_48.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xhdpi_ic_kraken_icon.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/generated/res/pngs/multisync/release/drawable-xhdpi/ic_kraken_icon.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-hdpi_ic_mic_off_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-hdpi/ic_mic_off_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xhdpi_ic_mic_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xhdpi/ic_mic_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xhdpi_ic_launcher_take_photo.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xhdpi/ic_launcher_take_photo.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-hdpi_ic_gps_fixed_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-hdpi/ic_gps_fixed_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "/home/andrei/.gradle/caches/transforms-2/files-2.1/27df1f4f4d89b5d3f90bafe68e1a11d9/support-media-compat-28.0.0/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi_take_video_pressed.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-mdpi/take_video_pressed.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxxhdpi_ic_fast_forward_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxxhdpi/ic_fast_forward_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxhdpi_baseline_text_fields_white_48.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxhdpi/baseline_text_fields_white_48.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi_white_balance_unlocked.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-mdpi/white_balance_unlocked.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xhdpi_ic_slow_motion_video_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xhdpi/ic_slow_motion_video_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxxhdpi_ic_mic_off_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxxhdpi/ic_mic_off_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi_ic_align_phases_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-mdpi/ic_align_phases_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-hdpi_ic_help_outline_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-hdpi/ic_help_outline_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxxhdpi_ic_photo_size_select_large_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxxhdpi/ic_photo_size_select_large_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi_ic_fast_forward_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-mdpi/ic_fast_forward_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-hdpi_ic_save_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-hdpi/ic_save_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi_take_video_recording.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-mdpi/take_video_recording.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi_white_balance_locked.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-mdpi/white_balance_locked.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxxhdpi_ic_gps_off_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxxhdpi/ic_gps_off_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-hdpi_ic_hdr_on_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-hdpi/ic_hdr_on_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/layout_notification_template_lines_media.xml.flat",
+        "source": "/home/andrei/.gradle/caches/transforms-2/files-2.1/27df1f4f4d89b5d3f90bafe68e1a11d9/support-media-compat-28.0.0/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxhdpi_flash_auto.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxhdpi/flash_auto.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxxhdpi_ic_pause_circle_outline_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxxhdpi/ic_pause_circle_outline_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xhdpi_ic_exposure_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xhdpi/ic_exposure_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi_take_photo.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-mdpi/take_photo.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxhdpi_ic_more_horiz_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxhdpi/ic_more_horiz_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xhdpi_ic_play_circle_outline_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xhdpi/ic_play_circle_outline_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/xml_preferences.xml.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi_ic_text_format_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-mdpi/ic_text_format_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/mipmap-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxhdpi_nr_icon.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxhdpi/nr_icon.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-hdpi_switch_camera.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-hdpi/switch_camera.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xhdpi_baseline_text_fields_white_48.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xhdpi/baseline_text_fields_white_48.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi_baseline_folder_open_white_48.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-mdpi/baseline_folder_open_white_48.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-hdpi_ic_play_circle_outline_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-hdpi/ic_play_circle_outline_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi_ic_help_outline_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-mdpi/ic_help_outline_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi_flash_on.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-mdpi/flash_on.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/raw_beep.ogg.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/raw/beep.ogg"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-hdpi_ic_fast_forward_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-hdpi/ic_fast_forward_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/home/andrei/.gradle/caches/transforms-2/files-2.1/ccf94a4f227dfa4f17156620e28a8b98/support-compat-28.0.0/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi_ic_mic_red_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-mdpi/ic_mic_red_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxxhdpi_ic_face_red_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxxhdpi/ic_face_red_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xhdpi_take_photo_pref.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xhdpi/take_photo_pref.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xhdpi_ic_save_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xhdpi/ic_save_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxhdpi_switch_camera.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxhdpi/switch_camera.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xhdpi_flash_auto.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xhdpi/flash_auto.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxhdpi_raw_icon.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxhdpi/raw_icon.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxhdpi_ic_photo_size_select_large_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxhdpi/ic_photo_size_select_large_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/mipmap-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable_notification_tile_bg.xml.flat",
+        "source": "/home/andrei/.gradle/caches/transforms-2/files-2.1/ccf94a4f227dfa4f17156620e28a8b98/support-compat-28.0.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xhdpi_ic_burst_mode_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xhdpi/ic_burst_mode_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xhdpi_ic_touch_app_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xhdpi/ic_touch_app_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/raw_pixel3_240fps_phaseconfig.json.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/raw/pixel3_240fps_phaseconfig.json"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxxhdpi_ic_save_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxxhdpi/ic_save_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi_exposure_locked.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-mdpi/exposure_locked.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxxhdpi_ic_power_settings_new_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxxhdpi/ic_power_settings_new_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-hdpi_ic_kraken_icon.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/generated/res/pngs/multisync/release/drawable-hdpi/ic_kraken_icon.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/home/andrei/.gradle/caches/transforms-2/files-2.1/ccf94a4f227dfa4f17156620e28a8b98/support-compat-28.0.0/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxxhdpi_ic_slow_motion_video_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxxhdpi/ic_slow_motion_video_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi_take_photo_pressed.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-mdpi/take_photo_pressed.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xhdpi_ic_fast_forward_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xhdpi/ic_fast_forward_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xhdpi_ic_mic_red_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xhdpi/ic_mic_red_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxhdpi_auto_stabilise_icon.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxhdpi/auto_stabilise_icon.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxhdpi_baseline_text_fields_red_48.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxhdpi/baseline_text_fields_red_48.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xhdpi_take_video_recording.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xhdpi/take_video_recording.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-hdpi_ic_text_format_red_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-hdpi/ic_text_format_red_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxhdpi_ic_fast_forward_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxhdpi/ic_fast_forward_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-hdpi_trash.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-hdpi/trash.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxhdpi_ic_pause_circle_outline_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxhdpi/ic_pause_circle_outline_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi_take_video_pref.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-mdpi/take_video_pref.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/home/andrei/.gradle/caches/transforms-2/files-2.1/ccf94a4f227dfa4f17156620e28a8b98/support-compat-28.0.0/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxhdpi_ic_face_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxhdpi/ic_face_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xhdpi_ic_gps_fixed_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xhdpi/ic_gps_fixed_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxhdpi_dro_icon.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxhdpi/dro_icon.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xhdpi_ic_help_outline_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xhdpi/ic_help_outline_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xhdpi_ic_pause_circle_outline_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xhdpi/ic_pause_circle_outline_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable_shortcut_ic_face_white_48dp.xml.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable/shortcut_ic_face_white_48dp.xml"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/layout_activity_main.xml.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/raw_beep_hi.ogg.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/raw/beep_hi.ogg"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/raw_p20pro_master_phaseconfig.json.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/raw/p20pro_master_phaseconfig.json"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi_focus_mode_auto.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-mdpi/focus_mode_auto.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-hdpi_ic_gps_fixed_red_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-hdpi/ic_gps_fixed_red_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxhdpi_trash.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxhdpi/trash.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable_shortcut_ic_videocam_white_48dp.xml.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable/shortcut_ic_videocam_white_48dp.xml"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable_shortcut_gallery.xml.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable/shortcut_gallery.xml"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/raw_p20pro_slave_phaseconfig.json.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/raw/p20pro_slave_phaseconfig.json"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxhdpi_ic_mic_off_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxhdpi/ic_mic_off_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/xml_widget_info.xml.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/xml/widget_info.xml"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi_ic_play_circle_outline_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-mdpi/ic_play_circle_outline_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable_take_photo_selector.xml.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable/take_photo_selector.xml"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi_ic_exposure_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-mdpi/ic_exposure_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/layout_widget_layout_take_photo.xml.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/layout/widget_layout_take_photo.xml"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxhdpi_ic_help_outline_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxhdpi/ic_help_outline_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxxhdpi_ic_gps_fixed_red_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxxhdpi/ic_gps_fixed_red_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxhdpi_settings.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxhdpi/settings.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxhdpi_ic_launcher_take_photo.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxhdpi/ic_launcher_take_photo.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxhdpi_raw_only_icon.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxhdpi/raw_only_icon.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/layout_notification_template_big_media_custom.xml.flat",
+        "source": "/home/andrei/.gradle/caches/transforms-2/files-2.1/27df1f4f4d89b5d3f90bafe68e1a11d9/support-media-compat-28.0.0/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xhdpi_take_video.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xhdpi/take_video.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxxhdpi_baseline_photo_library_white_48.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxxhdpi/baseline_photo_library_white_48.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxxhdpi_ic_burst_mode_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxxhdpi/ic_burst_mode_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxxhdpi_ic_timelapse_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxxhdpi/ic_timelapse_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxhdpi_focus_bracket_icon.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxhdpi/focus_bracket_icon.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi_ic_pause_circle_outline_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-mdpi/ic_pause_circle_outline_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi_ic_hdr_on_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-mdpi/ic_hdr_on_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/home/andrei/.gradle/caches/transforms-2/files-2.1/ccf94a4f227dfa4f17156620e28a8b98/support-compat-28.0.0/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/layout_widget_layout.xml.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/layout/widget_layout.xml"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi_ic_launcher_take_photo.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-mdpi/ic_launcher_take_photo.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi_settings.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-mdpi/settings.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxxhdpi_baseline_text_fields_red_48.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxxhdpi/baseline_text_fields_red_48.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/raw_s20ultra_phaseconfig.json.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/raw/s20ultra_phaseconfig.json"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-hdpi_ic_align_phases_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-hdpi/ic_align_phases_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-anydpi-v24_ic_kraken_icon.xml.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/generated/res/pngs/multisync/release/drawable-anydpi-v24/ic_kraken_icon.xml"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-hdpi_ic_photo_size_select_large_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-hdpi/ic_photo_size_select_large_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/mipmap-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xhdpi_baseline_photo_library_white_48.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xhdpi/baseline_photo_library_white_48.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/layout_notification_action.xml.flat",
+        "source": "/home/andrei/.gradle/caches/transforms-2/files-2.1/ccf94a4f227dfa4f17156620e28a8b98/support-compat-28.0.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-hdpi_share.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-hdpi/share.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi_ic_power_settings_new_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-mdpi/ic_power_settings_new_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi_flash_auto.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-mdpi/flash_auto.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi_ic_burst_mode_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-mdpi/ic_burst_mode_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxhdpi_raw_off_icon.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxhdpi/raw_off_icon.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/raw_pixel2_phaseconfig.json.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/raw/pixel2_phaseconfig.json"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxhdpi_ic_hdr_on_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxhdpi/ic_hdr_on_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxhdpi_flash_on.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxhdpi/flash_on.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-hdpi_flash_auto.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-hdpi/flash_auto.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xhdpi_ic_more_horiz_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xhdpi/ic_more_horiz_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/layout_notification_template_icon_group.xml.flat",
+        "source": "/home/andrei/.gradle/caches/transforms-2/files-2.1/ccf94a4f227dfa4f17156620e28a8b98/support-compat-28.0.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/raw_p20pro_phaseconfig.json.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/raw/p20pro_phaseconfig.json"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi_ic_gps_fixed_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-mdpi/ic_gps_fixed_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi_ic_save_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-mdpi/ic_save_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/layout_notification_template_media_custom.xml.flat",
+        "source": "/home/andrei/.gradle/caches/transforms-2/files-2.1/27df1f4f4d89b5d3f90bafe68e1a11d9/support-media-compat-28.0.0/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/home/andrei/.gradle/caches/transforms-2/files-2.1/ccf94a4f227dfa4f17156620e28a8b98/support-compat-28.0.0/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/layout_notification_template_media.xml.flat",
+        "source": "/home/andrei/.gradle/caches/transforms-2/files-2.1/27df1f4f4d89b5d3f90bafe68e1a11d9/support-media-compat-28.0.0/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi_ic_videocam_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-mdpi/ic_videocam_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable_shortcut_settings.xml.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable/shortcut_settings.xml"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxhdpi_ic_play_circle_outline_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxhdpi/ic_play_circle_outline_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/mipmap-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-hdpi_ic_info_outline_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-hdpi/ic_info_outline_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-v21_notification_action_background.xml.flat",
+        "source": "/home/andrei/.gradle/caches/transforms-2/files-2.1/ccf94a4f227dfa4f17156620e28a8b98/support-compat-28.0.0/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi_focus_mode_macro.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-mdpi/focus_mode_macro.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi_ic_timelapse_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-mdpi/ic_timelapse_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-hdpi_ic_timelapse_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-hdpi/ic_timelapse_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxhdpi_ic_slow_motion_video_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxhdpi/ic_slow_motion_video_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable_notification_bg_low.xml.flat",
+        "source": "/home/andrei/.gradle/caches/transforms-2/files-2.1/ccf94a4f227dfa4f17156620e28a8b98/support-compat-28.0.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi_ic_mic_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-mdpi/ic_mic_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-hdpi_baseline_rotate_left_white_48.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-hdpi/baseline_rotate_left_white_48.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xhdpi_ic_align_phases_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xhdpi/ic_align_phases_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi_focus_mode_edof.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-mdpi/focus_mode_edof.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/xml_widget_info_take_photo.xml.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/xml/widget_info_take_photo.xml"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi_ic_more_horiz_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-mdpi/ic_more_horiz_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi_take_photo_when_video_recording.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-mdpi/take_photo_when_video_recording.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxhdpi_ic_mic_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxhdpi/ic_mic_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxhdpi_ic_touch_app_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxhdpi/ic_touch_app_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-hdpi_ic_gps_off_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-hdpi/ic_gps_off_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxxhdpi_baseline_folder_open_white_48.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxxhdpi/baseline_folder_open_white_48.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxhdpi_ic_burst_mode_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxhdpi/ic_burst_mode_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxhdpi_ic_exposure_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxhdpi/ic_exposure_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/layout_notification_template_part_time.xml.flat",
+        "source": "/home/andrei/.gradle/caches/transforms-2/files-2.1/ccf94a4f227dfa4f17156620e28a8b98/support-compat-28.0.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xhdpi_flash_off.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xhdpi/flash_off.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi_ic_gps_off_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-mdpi/ic_gps_off_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxhdpi_ic_face_red_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxhdpi/ic_face_red_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxxhdpi_settings.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxxhdpi/settings.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxxhdpi_ic_text_format_red_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxxhdpi/ic_text_format_red_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xhdpi_ic_text_format_red_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xhdpi/ic_text_format_red_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/layout_notification_media_cancel_action.xml.flat",
+        "source": "/home/andrei/.gradle/caches/transforms-2/files-2.1/27df1f4f4d89b5d3f90bafe68e1a11d9/support-media-compat-28.0.0/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-hdpi_ic_pause_circle_outline_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-hdpi/ic_pause_circle_outline_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable_take_video_selector.xml.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable/take_video_selector.xml"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxhdpi_ic_gps_fixed_red_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxhdpi/ic_gps_fixed_red_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/layout_notification_media_action.xml.flat",
+        "source": "/home/andrei/.gradle/caches/transforms-2/files-2.1/27df1f4f4d89b5d3f90bafe68e1a11d9/support-media-compat-28.0.0/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxhdpi_ic_align_phases_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxhdpi/ic_align_phases_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi_ic_text_format_red_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-mdpi/ic_text_format_red_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/home/andrei/.gradle/caches/transforms-2/files-2.1/ccf94a4f227dfa4f17156620e28a8b98/support-compat-28.0.0/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xhdpi_trash.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xhdpi/trash.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xhdpi_baseline_text_fields_red_48.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xhdpi/baseline_text_fields_red_48.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/layout_notification_template_part_chronometer.xml.flat",
+        "source": "/home/andrei/.gradle/caches/transforms-2/files-2.1/ccf94a4f227dfa4f17156620e28a8b98/support-compat-28.0.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi_ic_face_red_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-mdpi/ic_face_red_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xhdpi_settings.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xhdpi/settings.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxxhdpi_baseline_text_fields_white_48.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxxhdpi/baseline_text_fields_white_48.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxhdpi_ic_power_settings_new_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxhdpi/ic_power_settings_new_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/home/andrei/.gradle/caches/transforms-2/files-2.1/ccf94a4f227dfa4f17156620e28a8b98/support-compat-28.0.0/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/home/andrei/.gradle/caches/transforms-2/files-2.1/ccf94a4f227dfa4f17156620e28a8b98/support-compat-28.0.0/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi_popup.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-mdpi/popup.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xhdpi_baseline_rotate_left_white_48.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xhdpi/baseline_rotate_left_white_48.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxxhdpi_ic_info_outline_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxxhdpi/ic_info_outline_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-hdpi_ic_slow_motion_video_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-hdpi/ic_slow_motion_video_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xhdpi_baseline_rotate_right_white_48.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xhdpi/baseline_rotate_right_white_48.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable_notification_bg.xml.flat",
+        "source": "/home/andrei/.gradle/caches/transforms-2/files-2.1/ccf94a4f227dfa4f17156620e28a8b98/support-compat-28.0.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxxhdpi_ic_face_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxxhdpi/ic_face_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xhdpi_ic_timelapse_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xhdpi/ic_timelapse_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi_popup_flash_on.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-mdpi/popup_flash_on.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi_ic_face_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-mdpi/ic_face_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-ldpi_ic_kraken_icon.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/generated/res/pngs/multisync/release/drawable-ldpi/ic_kraken_icon.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xhdpi_ic_videocam_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xhdpi/ic_videocam_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-hdpi_baseline_text_fields_red_48.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-hdpi/baseline_text_fields_red_48.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi_focus_mode_fixed.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-mdpi/focus_mode_fixed.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxxhdpi_ic_kraken_icon.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/generated/res/pngs/multisync/release/drawable-xxxhdpi/ic_kraken_icon.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xhdpi_ic_text_format_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xhdpi/ic_text_format_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi_baseline_photo_library_white_48.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-mdpi/baseline_photo_library_white_48.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/layout_notification_template_big_media_narrow.xml.flat",
+        "source": "/home/andrei/.gradle/caches/transforms-2/files-2.1/27df1f4f4d89b5d3f90bafe68e1a11d9/support-media-compat-28.0.0/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi_ic_photo_size_select_large_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-mdpi/ic_photo_size_select_large_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/home/andrei/.gradle/caches/transforms-2/files-2.1/ccf94a4f227dfa4f17156620e28a8b98/support-compat-28.0.0/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi_ic_timer_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-mdpi/ic_timer_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-hdpi_baseline_rotate_right_white_48.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-hdpi/baseline_rotate_right_white_48.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/home/andrei/.gradle/caches/transforms-2/files-2.1/ccf94a4f227dfa4f17156620e28a8b98/support-compat-28.0.0/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxxhdpi_ic_play_circle_outline_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxxhdpi/ic_play_circle_outline_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxhdpi_flash_off.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxhdpi/flash_off.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xhdpi_ic_photo_size_select_large_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xhdpi/ic_photo_size_select_large_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-hdpi_ic_timer_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-hdpi/ic_timer_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxxhdpi_ic_gps_fixed_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxxhdpi/ic_gps_fixed_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi_popup_flash_auto.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-mdpi/popup_flash_auto.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi_take_video.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-mdpi/take_video.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-hdpi_ic_mic_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-hdpi/ic_mic_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxxhdpi_ic_timer_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxxhdpi/ic_timer_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi_baseline_rotate_left_white_48.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-mdpi/baseline_rotate_left_white_48.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable_shortcut_ic_photo_camera_white_48dp.xml.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable/shortcut_ic_photo_camera_white_48dp.xml"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxhdpi_baseline_rotate_left_white_48.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxhdpi/baseline_rotate_left_white_48.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-hdpi_ic_touch_app_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-hdpi/ic_touch_app_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xhdpi_ic_info_outline_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xhdpi/ic_info_outline_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xhdpi_ic_gps_fixed_red_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xhdpi/ic_gps_fixed_red_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi_baseline_text_fields_white_48.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-mdpi/baseline_text_fields_white_48.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxxhdpi_ic_hdr_on_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxxhdpi/ic_hdr_on_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi_ic_info_outline_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-mdpi/ic_info_outline_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-hdpi_ic_face_red_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-hdpi/ic_face_red_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi_focus_mode_infinity.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-mdpi/focus_mode_infinity.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/menu_main.xml.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi_switch_camera.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-mdpi/switch_camera.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-hdpi_ic_launcher_take_photo.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-hdpi/ic_launcher_take_photo.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/layout_notification_template_custom_big.xml.flat",
+        "source": "/home/andrei/.gradle/caches/transforms-2/files-2.1/ccf94a4f227dfa4f17156620e28a8b98/support-compat-28.0.0/res/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/home/andrei/.gradle/caches/transforms-2/files-2.1/ccf94a4f227dfa4f17156620e28a8b98/support-compat-28.0.0/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/layout_notification_action_tombstone.xml.flat",
+        "source": "/home/andrei/.gradle/caches/transforms-2/files-2.1/ccf94a4f227dfa4f17156620e28a8b98/support-compat-28.0.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxxhdpi_ic_text_format_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxxhdpi/ic_text_format_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/layout-v21_notification_template_icon_group.xml.flat",
+        "source": "/home/andrei/.gradle/caches/transforms-2/files-2.1/ccf94a4f227dfa4f17156620e28a8b98/support-compat-28.0.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/home/andrei/.gradle/caches/transforms-2/files-2.1/ccf94a4f227dfa4f17156620e28a8b98/support-compat-28.0.0/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xhdpi_ic_gps_off_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xhdpi/ic_gps_off_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/layout-v21_notification_action.xml.flat",
+        "source": "/home/andrei/.gradle/caches/transforms-2/files-2.1/ccf94a4f227dfa4f17156620e28a8b98/support-compat-28.0.0/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi_ic_slow_motion_video_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-mdpi/ic_slow_motion_video_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-hdpi_baseline_photo_library_white_48.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-hdpi/baseline_photo_library_white_48.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi_share.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-mdpi/share.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/xml-v25_shortcuts.xml.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/xml-v25/shortcuts.xml"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxxhdpi_ic_align_phases_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxxhdpi/ic_align_phases_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xhdpi_ic_hdr_on_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xhdpi/ic_hdr_on_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xhdpi_take_photo_when_video_recording.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xhdpi/take_photo_when_video_recording.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi_exposure_unlocked.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-mdpi/exposure_unlocked.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/layout_notification_template_big_media.xml.flat",
+        "source": "/home/andrei/.gradle/caches/transforms-2/files-2.1/27df1f4f4d89b5d3f90bafe68e1a11d9/support-media-compat-28.0.0/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable_notification_icon_background.xml.flat",
+        "source": "/home/andrei/.gradle/caches/transforms-2/files-2.1/ccf94a4f227dfa4f17156620e28a8b98/support-compat-28.0.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxxhdpi_ic_more_horiz_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxxhdpi/ic_more_horiz_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-hdpi_flash_on.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-hdpi/flash_on.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi_popup_flash_off.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-mdpi/popup_flash_off.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxhdpi_ic_videocam_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxhdpi/ic_videocam_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxhdpi_ic_gps_off_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxhdpi/ic_gps_off_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi_ic_kraken_icon.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/generated/res/pngs/multisync/release/drawable-mdpi/ic_kraken_icon.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xhdpi_take_video_pressed.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xhdpi/take_video_pressed.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxhdpi_ic_info_outline_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxhdpi/ic_info_outline_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xhdpi_ic_power_settings_new_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xhdpi/ic_power_settings_new_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-hdpi_ic_power_settings_new_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-hdpi/ic_power_settings_new_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi_baseline_text_fields_red_48.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-mdpi/baseline_text_fields_red_48.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi_flash_red_eye.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-mdpi/flash_red_eye.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xhdpi_ic_photo_camera_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xhdpi/ic_photo_camera_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxhdpi_baseline_rotate_right_white_48.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxhdpi/baseline_rotate_right_white_48.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xhdpi_ic_face_red_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xhdpi/ic_face_red_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/home/andrei/.gradle/caches/transforms-2/files-2.1/ccf94a4f227dfa4f17156620e28a8b98/support-compat-28.0.0/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xhdpi_take_photo.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xhdpi/take_photo.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi_popup_flash_red_eye.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-mdpi/popup_flash_red_eye.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi_ic_gps_fixed_red_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-mdpi/ic_gps_fixed_red_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxhdpi_share.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxhdpi/share.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-xxhdpi_ic_save_white_48dp.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-xxhdpi/ic_save_white_48dp.png"
+    },
+    {
+        "merged": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/res/merged/multisync/release/drawable-mdpi_flash_torch.png.flat",
+        "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/drawable-mdpi/flash_torch.png"
+    }
+]

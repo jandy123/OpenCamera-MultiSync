@@ -1,0 +1,7 @@
+{
+  "periodNs": 40138545,
+  "goalPhaseNs": 19000000,
+  "alignThresholdNs": 500000,
+  "overheadNs": 200000,
+  "minExposureNs": 33170000
+}

@@ -1,0 +1,1 @@
+[{"outputType":{"type":"BUNDLE_MANIFEST"},"apkData":{"type":"MAIN","splits":[],"versionCode":80,"versionName":"1.46.9","enabled":true,"outputFile":"app-multisync-release.apk","fullName":"multisyncRelease","baseName":"multisync-release"},"path":"AndroidManifest.xml","properties":{"packageId":"net.sourceforge.opencamera.multisync","split":"","minSdkVersion":"15"}}]

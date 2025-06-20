@@ -1,0 +1,66 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/incremental/mergeMultisyncReleaseResources/merged.dir/values-v21/values-v21.xml",
+            "map": [
+                {
+                    "source": "/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/res/values-v21/styles.xml",
+                    "from": {
+                        "startLines": "7,11",
+                        "startColumns": "4,4",
+                        "startOffsets": "279,510",
+                        "endLines": "10,13",
+                        "endColumns": "12,12",
+                        "endOffsets": "505,764"
+                    },
+                    "to": {
+                        "startLines": "6,34",
+                        "startColumns": "4,4",
+                        "startOffsets": "354,2257",
+                        "endLines": "9,36",
+                        "endColumns": "12,12",
+                        "endOffsets": "580,2511"
+                    }
+                },
+                {
+                    "source": "/home/andrei/.gradle/caches/transforms-2/files-2.1/27df1f4f4d89b5d3f90bafe68e1a11d9/support-media-compat-28.0.0/res/values-v21/values-v21.xml",
+                    "from": {
+                        "startLines": "2,5,8,11",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,223,386,554",
+                        "endLines": "4,7,10,13",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "218,381,549,716"
+                    },
+                    "to": {
+                        "startLines": "12,15,19,23",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "827,995,1284,1580",
+                        "endLines": "14,17,21,25",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "990,1153,1447,1742"
+                    }
+                },
+                {
+                    "source": "/home/andrei/.gradle/caches/transforms-2/files-2.1/ccf94a4f227dfa4f17156620e28a8b98/support-compat-28.0.0/res/values-v21/values-v21.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,223,290,354,470,596,722,850,1022",
+                        "endLines": "2,3,4,5,6,7,8,9,12,17",
+                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
+                        "endOffsets": "154,218,285,349,465,591,717,845,1017,1355"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,10,11,18,22,26,29",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,223,290,585,701,1158,1452,1747,1919",
+                        "endLines": "2,3,4,5,10,11,18,22,28,33",
+                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
+                        "endOffsets": "154,218,285,349,696,822,1279,1575,1914,2252"
+                    }
+                }
+            ]
+        }
+    ]
+}

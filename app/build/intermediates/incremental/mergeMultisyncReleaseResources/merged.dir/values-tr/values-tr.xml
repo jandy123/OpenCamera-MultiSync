@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="focus_mode_entries">
+        <item>Otomatik Odakla</item>
+        <item>Sonsuz Odakla</item>
+        <item>Makro odak</item>
+        <item>Odağı kilitle</item>
+        <item>Elle Odakla</item>
+        <item>Karışık Odakla</item>
+        <item>EDOF Odak</item>
+        <item>Devamlı Odakla</item>
+        <item>Devamlı Odakla</item>
+    </string-array>
+    <string-array name="focus_mode_icons">
+        <item>drawable/focus_mode_auto</item>
+        <item>drawable/focus_mode_infinity</item>
+        <item>drawable/focus_mode_macro</item>
+        <item>drawable/focus_mode_locked</item>
+        <item>drawable/focus_mode_manual</item>
+        <item>drawable/focus_mode_fixed</item>
+        <item>drawable/focus_mode_edof</item>
+        <item>drawable/focus_mode_continuous_picture</item>
+        <item>drawable/focus_mode_continuous_video</item>
+    </string-array>
+    <string-array name="focus_mode_values">
+        <item>focus_mode_auto</item>
+        <item>focus_mode_infinity</item>
+        <item>focus_mode_macro</item>
+        <item>focus_mode_locked</item>
+        <item>focus_mode_manual2</item>
+        <item>focus_mode_fixed</item>
+        <item>focus_mode_edof</item>
+        <item>focus_mode_continuous_picture</item>
+        <item>focus_mode_continuous_video</item>
+    </string-array>
+    <string-array name="preference_angle_highlight_color_entries">
+        <item>Kırmızı</item>
+        <item>Yeşil</item>
+        <item>Mavi</item>
+        <item>Sarı</item>
+        <item>Mor</item>
+        <item>Beyaz</item>
+    </string-array>
+    <string-array name="preference_angle_highlight_color_values">
+        <item>#f44336</item> <!-- Red 500 -->
+        <item>#14e715</item> <!-- Green A400 -->
+        <item>#2196f3</item> <!-- Blue 500 -->
+        <item>#ffeb3b</item> <!-- Yellow 500 -->
+        <item>#9c27b0</item> <!-- Purple 500 -->
+        <item>#ffffff</item> <!-- White -->
+    </string-array>
+    <string-array name="preference_grid_entries">
+        <item>Çerçeve yok</item>
+        <item>3x3</item>
+        <item>Pi 3x3</item>
+        <item>4x2</item>
+        <item>Artı şeklinde</item>
+        <item>Altın oran (1)</item>
+        <item>Altın oran (2)</item>
+        <item>Altın oran (3)</item>
+        <item>Altın oran (4)</item>
+        <item>Üçgen (1)</item>
+        <item>Üçgen (2)</item>
+        <item>Çapraz</item>
+    </string-array>
+    <string-array name="preference_grid_values">
+        <item>preference_grid_none</item>
+        <item>preference_grid_3x3</item>
+        <item>preference_grid_phi_3x3</item>
+        <item>preference_grid_4x2</item>
+        <item>preference_grid_crosshair</item>
+        <item>preference_grid_golden_spiral_right</item>
+        <item>preference_grid_golden_spiral_left</item>
+        <item>preference_grid_golden_spiral_upside_down_right</item>
+        <item>preference_grid_golden_spiral_upside_down_left</item>
+        <item>preference_grid_golden_triangle_1</item>
+        <item>preference_grid_golden_triangle_2</item>
+        <item>preference_grid_diagonals</item>
+    </string-array>
+    <string-array name="preference_immersive_mode_entries">
+        <item>Kapalı</item>
+        <item>Sadece sanal ekran navigasyon butonlarını gizle</item>
+        <item>GUI(Grafik arayüz) gizle</item>
+        <item>Herşeyi gizle</item>
+    </string-array>
+    <string-array name="preference_immersive_mode_values">
+        <item>immersive_mode_off</item>
+        <item>immersive_mode_low_profile</item>
+        <item>immersive_mode_gui</item>
+        <item>immersive_mode_everything</item>
+        </string-array>
+    <string-array name="preference_lock_orientation_entries">
+        <item>Yönlendirme yok</item>
+        <item>Her zaman yatay</item>
+        <item>Her zaman dikey</item>
+    </string-array>
+    <string-array name="preference_lock_orientation_values">
+        <item>none</item>
+        <item>landscape</item>
+        <item>portrait</item>
+    </string-array>
+    <string-array name="preference_preview_size_entries">
+        <item>En yüksek önizleme boyutu</item>
+        <item>Foto boyutuna uydur (WYSIWYG)</item>
+    </string-array>
+    <string-array name="preference_preview_size_values">
+        <item>preference_preview_size_display</item>
+        <item>preference_preview_size_wysiwyg</item>
+    </string-array>
+    <string-array name="preference_record_audio_channels_entries">
+        <item>Öntanımlı ayar</item>
+        <item>Mono</item>
+        <item>Stereo (sadece bazı cihazlarda desteklenir)</item>
+    </string-array>
+    <string-array name="preference_record_audio_channels_values">
+        <item>audio_default</item>
+        <item>audio_mono</item>
+        <item>audio_stereo</item>
+    </string-array>
+    <string-array name="preference_rotate_preview_entries">
+        <item>Döndürme yok</item>
+        <item>180 derece döndür</item>
+        </string-array>
+    <string-array name="preference_rotate_preview_values">
+        <item>0</item>
+        <item>180</item>
+    </string-array>
+    <string-array name="preference_stamp_entries">
+        <item>Tarih bilgisi yok</item>
+        <item>Fotoğraflara tarih ekle</item>
+    </string-array>
+    <string-array name="preference_stamp_fontsize_entries">
+        <item>6</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>14</item>
+        <item>16</item>
+        <item>18</item>
+        <item>20</item>
+        <item>22</item>
+        <item>24</item>
+    </string-array>
+    <string-array name="preference_stamp_fontsize_values">
+        <item>6</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>14</item>
+        <item>16</item>
+        <item>18</item>
+        <item>20</item>
+        <item>22</item>
+        <item>24</item>
+    </string-array>
+    <string-array name="preference_stamp_gpsformat_entries">
+        <item>Öntanımlı ayar</item>
+        <item>Derece/dakika/saniye</item>
+        <item>Yok</item>
+    </string-array>
+    <string-array name="preference_stamp_gpsformat_values">
+        <item>preference_stamp_gpsformat_default</item>
+        <item>preference_stamp_gpsformat_dms</item>
+        <item>preference_stamp_gpsformat_none</item>
+    </string-array>
+    <string-array name="preference_stamp_style_entries">
+        <item>Gölgeli yazı</item>
+        <item>Düz yazı</item>
+    </string-array>
+    <string-array name="preference_stamp_style_values">
+        <item>preference_stamp_style_shadowed</item>
+        <item>preference_stamp_style_plain</item>
+    </string-array>
+    <string-array name="preference_stamp_timeformat_entries">
+        <item>Öntanımlı ayar</item>
+        <item>12 saat</item>
+        <item>24 saat</item>
+        <item>Zaman formatı yok</item>
+    </string-array>
+    <string-array name="preference_stamp_timeformat_values">
+        <item>preference_stamp_timeformat_default</item>
+        <item>preference_stamp_timeformat_12hour</item>
+        <item>preference_stamp_timeformat_24hour</item>
+        <item>preference_stamp_timeformat_none</item>
+    </string-array>
+    <string-array name="preference_stamp_values">
+        <item>preference_stamp_no</item>
+        <item>preference_stamp_yes</item>
+    </string-array>
+    <string-array name="preference_timer_entries">
+        <item>Kapalı</item>
+        <item>1sn</item>
+        <item>2sn</item>
+        <item>3sn</item>
+        <item>5sn</item>
+        <item>10sn</item>
+        <item>15sn</item>
+        <item>20sn</item>
+        <item>30sn</item>
+        <item>1da</item>
+        <item>2da</item>
+        <item>5da</item>
+    </string-array>
+    <string-array name="preference_timer_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>30</item>
+        <item>60</item>
+        <item>120</item>
+        <item>300</item>
+    </string-array>
+    <string-array name="preference_touch_capture_entries">
+        <item>Dokunma yok</item>
+        <item>Tek dokunuş</item>
+        <item>İki kez dokunuş</item>
+        </string-array>
+    <string-array name="preference_touch_capture_values">
+        <item>none</item>
+        <item>single</item>
+        <item>double</item>
+    </string-array>
+    <string-array name="preference_video_restart_entries">
+        <item>Yeniden başlatma</item>
+        <item>1 kez tekrarla</item>
+        <item>2 kez tekrarla</item>
+        <item>3 kez tekrarla</item>
+        <item>4 kez tekrarla</item>
+        <item>5 kez tekrarla</item>
+        <item>6 kez tekrarla</item>
+        <item>7 kez tekrarla</item>
+        <item>8 kez tekrarla</item>
+        <item>9 kez tekrarla</item>
+        <item>10 kez tekrarla</item>
+    </string-array>
+    <string-array name="preference_video_restart_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="preference_volume_keys_entries">
+        <item>Fotoğraf çek (ya da vidyo kaydını başlat/durdur)</item>
+        <item>Odakla</item>
+        <item>Büyült/Küçült</item>
+        <item>Pozlama seviyesini değiştir</item>
+        <item>Oto-stabilize açık/kapalı</item>
+        <item>Cihaz sesini değiştir</item>
+        <item>Eylem yok</item>
+        </string-array>
+    <string-array name="preference_volume_keys_values">
+        <item>volume_take_photo</item>
+        <item>volume_focus</item>
+        <item>volume_zoom</item>
+        <item>volume_exposure</item>
+        <item>volume_auto_stabilise</item>
+        <item>volume_nothing</item><!-- actually means change device volume! -->
+        <item>volume_really_nothing</item>
+    </string-array>
+    <string name="about_available">Etkinleştir</string>
+    <string name="about_copy_to_clipboard">Clipboarda kopyala</string>
+    <string name="about_not_available">Etkin değil</string>
+    <string name="action_popup">Popup Ayarları</string>
+    <string name="action_settings">Ayarlar</string>
+    <string name="angle">Açı</string>
+    <string name="app_name">Open Camera</string>
+    <string name="audio_disabled">Ses kapatıldı</string>
+    <string name="auto_stabilise_not_supported">Üzgünüz, otomatik-stabilize desteklenmiyor\bu cihaz için</string>
+    <string name="back_camera">Arka kamera</string>
+    <string name="cancelled_repeat_mode">Patlama modu iptal edildi</string>
+    <string name="cancelled_timer">Sayaç iptal edildi</string>
+    <string name="cant_access_folder">bu klasöre erişim izniniz yok</string>
+    <string name="cant_write_folder">Bu klasöre kaydetme izniniz yok</string>
+    <string name="changed_save_location">Değiştirilen kayıt konumu:</string>
+    <string name="choose_another_folder">Başka bir klasör seç</string>
+    <string name="choose_save_location">Kayıt yerini seç:</string>
+    <string name="clear_folder_history">Klasör geçmişini temizle</string>
+    <string name="clear_folder_history_question">Klasör geçmişini temizlemek istiyor musunuz?</string>
+    <string name="color_effect">Renk efekti</string>
+    <string name="direction">Yön</string>
+    <string name="duration_10m">10 dakika</string>
+    <string name="duration_10s">10 saniye</string>
+    <string name="duration_11m">11 dakika</string>
+    <string name="duration_12m">12 dakika</string>
+    <string name="duration_15m">15 dakika</string>
+    <string name="duration_15s">15 saniye</string>
+    <string name="duration_1h">1 saat</string>
+    <string name="duration_1m">1 dakika</string>
+    <string name="duration_20m">20 dakika</string>
+    <string name="duration_25m">25 dakika</string>
+    <string name="duration_2m">2 dakika</string>
+    <string name="duration_30m">30 dakika</string>
+    <string name="duration_30s">30 saniye</string>
+    <string name="duration_3m">3 dakika</string>
+    <string name="duration_3s">3 saniye</string>
+    <string name="duration_45m">45 dakika</string>
+    <string name="duration_4m">4 dakika</string>
+    <string name="duration_5m">5 dakika</string>
+    <string name="duration_5s">5 saniye</string>
+    <string name="duration_6m">6 dakika</string>
+    <string name="duration_7m">7 dakika</string>
+    <string name="duration_8m">8 dakika</string>
+    <string name="duration_9m">9 dakika</string>
+    <string name="duration_unlimited">Sınırsız</string>
+    <string name="enter_new_folder">Yeni bir klasör adı girin</string>
+    <string name="exposure">Pozlama</string>
+    <string name="exposure_compensation">Pozlama telafisi</string>
+    <string name="exposure_lock">Pozlamayı kilidi</string>
+    <string name="exposure_locked">Pozlanma kilitlendi</string>
+    <string name="exposure_unlocked">Pozlama kilidi açıldı</string>
+    <string name="failed_create_folder">Klasör oluşturma hatası</string>
+    <string name="failed_to_auto_stabilise">Otomatik stabilize hatası oluştu</string>
+    <string name="failed_to_open_camera_1">KAMERA AÇMA HATASI.</string>
+    <string name="failed_to_open_camera_2">KAMERA KULLANIMDA OLABİLİR</string>
+    <string name="failed_to_open_camera_3">BAŞKA BİR UYGULAMA TARAFINDAN?</string>
+    <string name="failed_to_reconnect_camera">Kameraya tekrar bağlanma hatası</string>
+    <string name="failed_to_record_video">Vidyo kaydında hata oluştu.</string>
+    <string name="failed_to_save_photo">Fotoğraf kaydederken hata oluştu</string>
+    <string name="failed_to_save_video">Vidyo dosyasını kaydederken hata oluştu</string>
+    <string name="failed_to_stamp">Fotoğrafa tarih bilgisi ekleme hatası</string>
+    <string name="failed_to_start_camera_preview">Kamera önizleme başlatma hatası</string>
+    <string name="failed_to_take_picture">Fotoğraf çekerken hata oluştu</string>
+    <string name="flash_auto">Flaş Otomatik</string>
+    <string name="flash_mode">Flaş Modu</string>
+    <string name="flash_off">Flaş Kapalı</string>
+    <string name="flash_on">Flaş Açık</string>
+    <string name="flash_red_eye">Kırmızı Göz</string>
+    <string name="flash_torch">Flaş Işığı</string>
+    <string name="focus_distance">Odak uzaklığı</string>
+    <string name="focus_mode">Odaklama Modu</string>
+    <string name="folder_exists">Bu adda bir klasör zaten var</string>
+    <string name="fps">FPS</string>
+    <string name="free_memory">Boş</string>
+    <string name="front_camera">Ön kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="infinite">Sonsuz</string>
+    <string name="intro_ok">TAMAM (Bu mesaj tekrar gösterilmeyecektir.)</string>
+    <string name="intro_text">Odaklamak için dokunun ve fotoğraf çekmek için mavi kamera butonuna basın. Daha fazla yardım için, Online yardım formu ayarlarına tıklayın. Open Camera tamamen ücretsizdir. Bu uygulamayı beğendiyseniz, bağış uygulamamı satın almayı düşünebilirsiniz. :) (Ayarlar ya da Online yardımdaki linke gözatın).\n\nGizlilik Poliçesi: Konum izni yer etiketi için gereklidir fakat öntanımlı ayar olarak pasifleştirilmiştir. Etkinleştirilirse konumunuz kayıtlı dosyalarda kodlanacaktır.(sadece bu amaçla kullanılacaktır.).</string>
+    <string name="iso">ISO</string>
+    <string name="location_not_available">GPS konumu uygun değil</string>
+    <string name="max_duration">Maksimum süre</string>
+    <string name="metres_abbreviation">m</string>
+    <string name="new_folder">Yeni Klasör</string>
+    <string name="no_gallery_app">Uygun galeri uygulaması yok</string>
+    <string name="not_supported">cihazınız desteklemiyor</string>
+    <string name="off">Kapalı</string>
+    <string name="on">Açık</string>
+    <string name="parent_folder">Ana Klasör</string>
+    <string name="permission_location_not_available">Konum izni etkin değil</string>
+    <string name="permission_record_audio_not_available">Mikrofon izni etkin değil</string>
+    <string name="photo">Foto</string>
+    <string name="photo_deleted">Fotoğraf silindi</string>
+    <string name="preference_about">Hakkında</string>
+    <string name="preference_about_summary">Uygulama ve eksiklik bilgisi</string>
+    <string name="preference_angle_highlight_color">Açı hat rengi</string>
+    <string name="preference_angle_highlight_color_summary">Kamera sıfır seviyesine geldiğinde renklendir</string>
+    <string name="preference_auto_stabilise">Otomatik-stabilize</string>
+    <string name="preference_auto_stabilise_summary">Resimler otomatik seviyesindeyken (yalnızca fotoğraflarda) otomatik olarak döndürülecektir (fotoğraf çekme yavaşlar ve bazı telefonlarda çok düşük bellek hatası oluşabilir)</string>
+    <string name="preference_burst_interval">Patlama modu süresi</string>
+    <string name="preference_burst_interval_10m">10da</string>
+    <string name="preference_burst_interval_10s">10sn</string>
+    <string name="preference_burst_interval_15s">15sn</string>
+    <string name="preference_burst_interval_1h">1sa</string>
+    <string name="preference_burst_interval_1m">1da</string>
+    <string name="preference_burst_interval_1s">1sn</string>
+    <string name="preference_burst_interval_20m">20da</string>
+    <string name="preference_burst_interval_20s">20sn</string>
+    <string name="preference_burst_interval_2h">2sa</string>
+    <string name="preference_burst_interval_2m">2da</string>
+    <string name="preference_burst_interval_2s">2sn</string>
+    <string name="preference_burst_interval_30m">30da</string>
+    <string name="preference_burst_interval_30s">30sn</string>
+    <string name="preference_burst_interval_3s">3sn</string>
+    <string name="preference_burst_interval_5m">5da</string>
+    <string name="preference_burst_interval_5s">5sn</string>
+    <string name="preference_burst_interval_no_delay">Gecikmesiz</string>
+    <string name="preference_burst_mode">Patlama modu</string>
+    <string name="preference_burst_mode_10x">10x</string>
+    <string name="preference_burst_mode_2x">2x</string>
+    <string name="preference_burst_mode_3x">3x</string>
+    <string name="preference_burst_mode_4x">4x</string>
+    <string name="preference_burst_mode_5x">5x</string>
+    <string name="preference_burst_mode_off">Kapalı</string>
+    <string name="preference_burst_mode_unlimited">Sınırsız</string>
+    <string name="preference_category_camera_controls">Kamera Kontrolleri</string>
+    <string name="preference_category_camera_effects">Kamera Efektleri</string>
+    <string name="preference_category_camera_quality">Fotoğraf ve Vidyo Ayarları</string>
+    <string name="preference_category_online">Karışık</string>
+    <string name="preference_color_effect">Renk efekti uygula</string>
+    <string name="preference_color_effect_summary">Seçilen renk efektini fotoğrafa uygular</string>
+    <string name="preference_crop_guide">Kırpma yardımcısını göster</string>
+    <string name="preference_crop_guide_1">1 (1:1)</string>
+    <string name="preference_crop_guide_1_25">1.25 (5:4)</string>
+    <string name="preference_crop_guide_1_33">1.33 (4:3)</string>
+    <string name="preference_crop_guide_1_4">1.4 (7:4)</string>
+    <string name="preference_crop_guide_1_5">1.5 (3:2)</string>
+    <string name="preference_crop_guide_1_78">1.78 (16:9)</string>
+    <string name="preference_crop_guide_1_85">1.85 (37:20)</string>
+    <string name="preference_crop_guide_2_33">2.33 (21:9)</string>
+    <string name="preference_crop_guide_2_35">2.35 (47:20)</string>
+    <string name="preference_crop_guide_2_4">2.4 (12:5)</string>
+    <string name="preference_crop_guide_none">Yok</string>
+    <string name="preference_crop_guide_summary">Kırpma yardımcısı -eğer daha sonra fotoğraf/vidyoları farklı görüntü oranlarında kırpmayı planlıyorsanız kullanışlıdır- özel görüntü oranlarının nasıl göründüğünü dikdörtgen şeklinde gösterir. WYSIWYG fotoğraf modu ya da vidyo modunda olmak gerekir\n%s</string>
+    <string name="preference_donate">Geliştirmeyi desteklemek için bağışta bulunun</string>
+    <string name="preference_donate_summary">Uygulamayı beğendiyseniz, bağış yapmayı düşünebilirsiniz. "donation app" satın alarak bunu yapabilirsiniz - bu seçeneğe tıkladığınızda bağış uygulaması için sayfam açılacaktır. Teşekkürler!</string>
+    <string name="preference_exposure">Pozlama telafisini ayarla</string>
+    <string name="preference_exposure_summary">Öntanımlı pozlama telafisini 0 a ayarla</string>
+    <string name="preference_face_detection">Yüz tanıma</string>
+    <string name="preference_face_detection_summary">Odak alanları yerine yüz tanımayı kullan</string>
+    <string name="preference_force_video_4k">4K UHD vidyo için zorla(deneysel)</string>
+    <string name="preference_force_video_4k_summary">3840x2160 çözünürlüğünü arka kameradan vidyo kaydederken etkinleştir- bu ayar sadece cihazınız destekliyorsa çalışacaktır, desteklemiyorsa cihazınız çökebilir!</string>
+    <string name="preference_free_memory">Boş bellek alanını göster</string>
+    <string name="preference_free_memory_summary">Ekranda kalan boş cihaz alanını göster</string>
+    <string name="preference_gps_direction">Pusula yönünü kaydet</string>
+    <string name="preference_gps_direction_summary">Fotoğraflardaki GPS pusula yönünü kaydet</string>
+    <string name="preference_grid">Çerçeve göster</string>
+    <string name="preference_immersive_mode">Immersive(Tutulma) mod</string>
+    <string name="preference_iso">ISO yu ayarla</string>
+    <string name="preference_iso_summary">Yüksek bir değer ışığa daha duyarlı hale getirir (bazı cihazlarda çalışmayabilir)</string>
+    <string name="preference_keep_display_on">Ekranı açık tut</string>
+    <string name="preference_keep_display_on_summary">Etkinleştirilirse, Open Camera kullanıcı arayüzü aktifken ekran kapanmayacaktır</string>
+    <string name="preference_location">Konum verisini kaydet(Geotagging)</string>
+    <string name="preference_location_summary">Fotoğraf/vidyolardaki GPS konum bilgisini kaydet</string>
+    <string name="preference_lock_orientation">Fotoğraf/vidyo yönlendirmeyi kilitle</string>
+    <string name="preference_lock_orientation_summary"> Eğer ayarlanırsa, cihazın yönlendirmesi geçilecektir ve fotoğraf/vidyo yönlendirmesi daha önce belirlenen yönlendirme ayarına uyacaktır\n%s</string>
+    <string name="preference_lock_video">Vidyo kaydederken ekranı kilitle</string>
+    <string name="preference_lock_video_summary">Vidyo kaydederken, GUI kazara kaydı durdurmayı önlemek için kilitlenecek. Kilidi açmak için ekranı kaydırın. Vidyo kaydederken eğer uygulama arkaplana giderse ya da ekran boşsa kayıt daima durdurulacaktır.</string>
+    <string name="preference_max_brightness">Maksimum parlaklık için zorla</string>
+    <string name="preference_max_brightness_summary">Cihazın öntanımlı ayarına bakmaksızın ekran görüntüsünü maksimum parlaklık için zorlar</string>
+    <string name="preference_online_help">Online yardım</string>
+    <string name="preference_pause_preview">Fotoğraf çektikten sonra beklet</string>
+    <string name="preference_pause_preview_summary">Fotoğraf çektikten sonra fotoğrafı paylaşma ya da silme seçeneği için ekranı duraklat</string>
+    <string name="preference_preview_size">Önizleme boyutu</string>
+    <string name="preference_quality">Resim kalitesi</string>
+    <string name="preference_quality_summary">Kaydedilmiş fotoğrafların resim kalitesini ayarla(tavsiye edilen değer 90%%)\n%s</string>
+    <string name="preference_record_audio">Sesleri kaydet</string>
+    <string name="preference_record_audio_channels">Ses kanalları</string>
+    <string name="preference_record_audio_channels_summary">Ses kaydetmede kullanılacak kanalları mono ya da stereo özelleştir(stereo sadece bazı cihazlarda desteklenir)</string>
+    <string name="preference_record_audio_src">Sesin Kaynağı</string>
+    <string name="preference_record_audio_src_camcorder">Camcorder</string>
+    <string name="preference_record_audio_src_default">Öntanımlı ses kaynağı</string>
+    <string name="preference_record_audio_src_mic">Harici mikrofon (varsa)</string>
+    <string name="preference_record_audio_src_summary">Ses kaydetmede kullanılacak mikrofon\n%s</string>
+    <string name="preference_record_audio_src_voice_communication">Kişi sesine optimize et</string>
+    <string name="preference_record_audio_summary">Vidyo kaydederken sesleri de kaydet</string>
+    <string name="preference_require_location">Konum bilgisi gerekliliği</string>
+    <string name="preference_require_location_summary">Konum bilgisi etkinleştirilidiğinde, sadece konum bilgisi ulaşılabilir olduğunda fotoğraf/vidyo çek</string>
+    <string name="preference_reset">Ayarları temizle</string>
+    <string name="preference_reset_question">Tüm Open Camera ayarlarını öntanımlı ayarlara döndürmek istediğinize emin misiniz?</string>
+    <string name="preference_reset_summary">Tüm Open Camera ayarlarını öntanımlı ayarlara döndür</string>
+    <string name="preference_resolution">Kamera çözünürlüğü</string>
+    <string name="preference_rotate_preview">Önzilemeyi döndür</string>
+    <string name="preference_rotate_preview_summary">Önizlemeyi döndürme seçeneği(etkile\'yecek fotoğraf/vidyo sonucunu etkilemeyecektir)\n%s</string>
+    <string name="preference_save_location">Kaydetme yeri</string>
+    <string name="preference_save_location_summary">Fotoğraf/vidyo dosyaları için kayıt klasörü</string>
+    <string name="preference_save_photo_prefix">Fotoğraf adlandırma öneki kaydet</string>
+    <string name="preference_save_photo_prefix_summary">Fotoğraflarda dosya adlarını kaydetmede kullanılacak önek</string>
+    <string name="preference_save_video_prefix">vidyo adlandırma öneki kaydet</string>
+    <string name="preference_save_video_prefix_summary">Vidyolarda dosya adlarını kaydetmede kullanılacak önek</string>
+    <string name="preference_scene_mode">Sahne modu uygula</string>
+    <string name="preference_scene_mode_summary">Fotoğrafı farklı sahneler için optimize et</string>
+    <string name="preference_screen_camera_controls_more">Daha fazla kamera kontrol ayarı…</string>
+    <string name="preference_screen_gui">GUI Ekran Ayarları(grafik arayuzu)…</string>
+    <string name="preference_screen_location_settings">Konum ayarları…</string>
+    <string name="preference_screen_photo_settings">Fotoğraf ayarları…</string>
+    <string name="preference_screen_video_settings">Vidyo ayarları…</string>
+    <string name="preference_show_angle">Açıyı göster</string>
+    <string name="preference_show_angle_line">Açı hattı çizgisini göster</string>
+    <string name="preference_show_angle_line_summary">Ufuk çizgisini göster</string>
+    <string name="preference_show_angle_summary">Ekranda şu anki cihaz yönlendirme açısını göster</string>
+    <string name="preference_show_battery">Pili göster</string>
+    <string name="preference_show_battery_summary">Ekranda şu anki pil seviyesini göster</string>
+    <string name="preference_show_geo_direction">Pusula yönünü göster</string>
+    <string name="preference_show_geo_direction_summary">Ekran üzerinde cihazın pusula yönünü göster</string>
+    <string name="preference_show_iso">ISO yu göster</string>
+    <string name="preference_show_iso_summary">Şu anki ISO seviyesini göster(Camera2 API si gerekir)</string>
+    <string name="preference_show_time">Zamanı göster</string>
+    <string name="preference_show_time_summary">Ekranda şu anki zamanı göster</string>
+    <string name="preference_show_toasts">\"ileti\" mesajları göster</string>
+    <string name="preference_show_toasts_summary">\"ileti\" mesajlarını açılır pencere şeklinde göster</string>
+    <string name="preference_show_when_locked">Kilitlendiğinde kamerayı göster</string>
+    <string name="preference_show_when_locked_summary">Etkinleştirilirse, Open Camera yukarıda kilit ekranı göstermeye devam edecektir(Sizin\' ayarlara, galeriye vb. erişmek için yine de ekranı açamanız gerekir)</string>
+    <string name="preference_show_zoom">Zoomu göster</string>
+    <string name="preference_show_zoom_controls">Zoom -/+ kontrollerini göster</string>
+    <string name="preference_show_zoom_controls_summary">Zoom kontrolü için -/+ butonlarını göster</string>
+    <string name="preference_show_zoom_slider_controls">Zoom kaydırma kontrolünü göster</string>
+    <string name="preference_show_zoom_slider_controls_summary">Zoom kontrolü için kaydırma barını göster</string>
+    <string name="preference_show_zoom_summary">Ekranda şu anki zoom seviyesini göster(büyütüldüğünde)</string>
+    <string name="preference_shutter_sound">Fotoğraf çekme sesi</string>
+    <string name="preference_shutter_sound_summary">Fotoğraf çekerken ses çal(kapatmak için Android 4.2 ya da daha üstü gereklidir)</string>
+    <string name="preference_stamp">Fotoğraflara tarih-saat ekleme</string>
+    <string name="preference_stamp_dateformat">Tarih formatı</string>
+    <string name="preference_stamp_dateformat_ddmmyyyy">gg/aa/yyyy</string>
+    <string name="preference_stamp_dateformat_default">Öntanımlı ayar</string>
+    <string name="preference_stamp_dateformat_mmddyyyy">aa/gg/yyyy</string>
+    <string name="preference_stamp_dateformat_none">Tarih bilgisi yok</string>
+    <string name="preference_stamp_dateformat_yyyymmdd">yyyy-aa-gg</string>
+    <string name="preference_stamp_font_color">Yazı rengi</string>
+    <string name="preference_stamp_font_color_summary">Fotoğrafların üzerine eklendiğinde kullanılacak yazı rengi</string>
+    <string name="preference_stamp_fontsize">Font(yazı) boyutu</string>
+    <string name="preference_stamp_fontsize_summary">Fotoğrafların üzerine eklendiğinde kullanılacak font(yazı)boyutu</string>
+    <string name="preference_stamp_gpsformat">GPS formatı</string>
+    <string name="preference_stamp_style">Yazı stili</string>
+    <string name="preference_stamp_style_summary">Fotoğrafların üzerine eklendiğinde kullanılacak yazı stili</string>
+    <string name="preference_stamp_summary">Fotoğraflara tarih-saaat ekle; konum/yön bilgisi açık ise GPS bilgisini de ekle\n%s</string>
+    <string name="preference_stamp_timeformat">Saat modu formatı</string>
+    <string name="preference_textstamp">Özel yazı ekleme</string>
+    <string name="preference_textstamp_summary">Özel bir yazı ekleyerek fotoğrafları işaretle</string>
+    <string name="preference_thumbnail_animation">Önizleme animasyonunu göster</string>
+    <string name="preference_thumbnail_animation_summary">Fotoğraf çekerken önizleme animasyon hareketini göster</string>
+    <string name="preference_timer">Zamanlayıcı</string>
+    <string name="preference_timer_beep">Zamanlayıcı ayarla</string>
+    <string name="preference_timer_beep_summary">Zamanlayıcı ya da patlama modu gecikmesi çalışırken bip sesi çıkar</string>
+    <string name="preference_timer_speak">Ses zamanlayıcısı geri sayım</string>
+    <string name="preference_timer_speak_summary">Zamanlayıcı ya da patlama modu gecikmesi için gerisayımı sesli söyle(60 saniyeden itibaren)</string>
+    <string name="preference_touch_capture">Yakalamak için dokunun</string>
+    <string name="preference_touch_capture_summary">Sadece dokunarak fotoğraf çekin ya da önizlemek için ardarda dokunun</string>
+    <string name="preference_ui_placement">Kullanıcı arayüzü</string>
+    <string name="preference_ui_placement_left">Solak kullanıcı arayüzü</string>
+    <string name="preference_ui_placement_right">Sağ el kullanıcı arayüzü</string>
+    <string name="preference_use_camera2">Camera2 API sini kullan</string>
+    <string name="preference_use_camera2_summary">Etkinleştirir Android 5\'s Camera2 API - ekstra özellikler sunar fakat şuan deneyseldir(yeniden başlatacaktır)</string>
+    <string name="preference_using_saf">Storage Access Framework kullan</string>
+    <string name="preference_using_saf_summary">Android 5\'s fotoğraf ve vidyoları kaydetmek için Storage Access Framework kullan</string>
+    <string name="preference_video_bitrate">Vidyo bitrate (ortalama)</string>
+    <string name="preference_video_bitrate_100000">100kbps</string>
+    <string name="preference_video_bitrate_1000000">1Mbps</string>
+    <string name="preference_video_bitrate_10000000">10Mbps</string>
+    <string name="preference_video_bitrate_100000000">100Mbps</string>
+    <string name="preference_video_bitrate_15000000">15Mbps</string>
+    <string name="preference_video_bitrate_200000">200kbps</string>
+    <string name="preference_video_bitrate_2000000">2Mbps</string>
+    <string name="preference_video_bitrate_20000000">20Mbps</string>
+    <string name="preference_video_bitrate_3000000">3Mbps</string>
+    <string name="preference_video_bitrate_30000000">30Mbps</string>
+    <string name="preference_video_bitrate_4000000">4Mbps</string>
+    <string name="preference_video_bitrate_40000000">40Mbps</string>
+    <string name="preference_video_bitrate_500000">500kbps</string>
+    <string name="preference_video_bitrate_5000000">5Mbps</string>
+    <string name="preference_video_bitrate_50000000">50Mbps</string>
+    <string name="preference_video_bitrate_6000000">6Mbps</string>
+    <string name="preference_video_bitrate_60000000">60Mbps</string>
+    <string name="preference_video_bitrate_7000000">7Mbps</string>
+    <string name="preference_video_bitrate_70000000">70Mbps</string>
+    <string name="preference_video_bitrate_8000000">8Mbps</string>
+    <string name="preference_video_bitrate_80000000">80Mbps</string>
+    <string name="preference_video_bitrate_9000000">9Mbps</string>
+    <string name="preference_video_bitrate_90000000">90Mbps</string>
+    <string name="preference_video_bitrate_default">Öntanımlı ayar</string>
+    <string name="preference_video_bitrate_summary">Vidyoların ortalama bitoranlarını ayarla(değerler yükseldikçe kalite yükselir fakat dosyalar daha fazla alan kaplar; eğer bitoranı desteklenmezse vidyo kaydederken hatalar oluşabilir)\n%s</string>
+    <string name="preference_video_flash">vidyo kaydederken Flaşı aç</string>
+    <string name="preference_video_flash_summary">Etkinleştirildiğinde, flaş vidyo kaydederken yanıp sönecektir(kameranın hala uzak bir yerde kayıt yaptığını anlamak için kullanılabilir)</string>
+    <string name="preference_video_fps">Vidyo kare oranı (ortalama)</string>
+    <string name="preference_video_fps_default">Öntanımlı ayar</string>
+    <string name="preference_video_fps_summary">Vidyoların kare oranını(FPS) ayarla(ortalama olabilir, tamamlanacağının garantisi yoktur ve kare oranı desteklenmezse hatalar oluşabilir)\n%s</string>
+    <string name="preference_video_max_duration">Vidyoların maksimum süresi</string>
+    <string name="preference_video_max_duration_summary">Vidyo kaydı belirlenen süreden sonra durdurulacaktır\n%s</string>
+    <string name="preference_video_restart">Maksimum süreye ulaşıldığında vidyoyu yeniden başlat</string>
+    <string name="preference_video_restart_summary">Vidyo maksimum süreye(ayarlandı ise) ulaşdığında, bu seçenek vidyoyu belirli bir sayıya ulaşana dek yeniden başlatacaktır\n%s</string>
+    <string name="preference_video_stabilization">Vidyo stabilizasyonunu etkinleştir</string>
+    <string name="preference_video_stabilization_summary">Vidyo stabilizasyonu, önizleme yaparken ve kaydedilmiş vidyolarda kamera hareketine bağlı olarak sarsıntıyı azaltır</string>
+    <string name="preference_volume_keys">Ses seviyesi tuşları</string>
+    <string name="preference_white_balance">Beyaz dengesini ayarlayın</string>
+    <string name="preference_white_balance_summary">Beyaz dengesini düzeltmek için bir ayar seçin</string>
+    <string name="repeats_to_go">repeats to go</string>
+    <string name="saf_cancelled">Storage Access Framework iptal edildi</string>
+    <string name="saf_select_save_location">Kaydedilecek konumu seçin</string>
+    <string name="scene_mode">Sahne modu</string>
+    <string name="screen_is_locked">Ekran kilitlendi\açmak için ekranı kaydırın</string>
+    <string name="screen_lock_message_1">[KİLİTLENDİ:</string>
+    <string name="screen_lock_message_2">Açmak için kaydırın]</string>
+    <string name="share">Fotoğraf Paylaş</string>
+    <string name="sorry">Üzgünüz</string>
+    <string name="started_recording_video">Vidyo kaydetme başladı</string>
+    <string name="started_timer">Sayaç başlatıldı</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stopped_recording_video">Vidyo kaydı durduruldu</string>
+    <string name="take_photo">Fotoğraf çek</string>
+    <string name="taking_photo">Fotoğraf çekiliyor</string>
+    <string name="trash">Son Resmi Sil</string>
+    <string name="unlocked">Kilit açıldı</string>
+    <string name="video">Vidyo</string>
+    <string name="video_error_server_died">Server durdu, vidyo duraklatıldı</string>
+    <string name="video_error_unknown">Bilinmeyen hata oluştu, vidyo duraklatıldı</string>
+    <string name="video_max_duration">Vidyo maksimum süreye ulaştı</string>
+    <string name="video_max_filesize">Vidyo maksimum dosya boyutuna ulaştı</string>
+    <string name="video_may_be_corrupted">Hata oluştu, vidyo dosyası bozulmuş olabilir</string>
+    <string name="video_quality">Vidyo çözünürlüğü</string>
+    <string name="white_balance">Beyaz dengesi</string>
+    <string name="zoom">Büyüt</string>
+</resources>

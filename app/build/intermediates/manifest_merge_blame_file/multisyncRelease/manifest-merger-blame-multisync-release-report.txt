@@ -1,0 +1,343 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="net.sourceforge.opencamera.multisync"
+4    android:installLocation="auto"
+5    android:versionCode="80"
+6    android:versionName="1.46.9" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="15"
+9-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml
+10        android:targetSdkVersion="28" />
+10-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml
+11
+12    <supports-screens
+12-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:9:5-164
+13        android:anyDensity="true"
+13-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:9:137-162
+14        android:largeScreens="true"
+14-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:9:52-79
+15        android:normalScreens="true"
+15-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:9:80-108
+16        android:smallScreens="true"
+16-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:9:109-136
+17        android:xlargeScreens="true" />
+17-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:9:23-51
+18
+19    <uses-permission android:name="android.permission.BLUETOOTH" />
+19-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:11:5-68
+19-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:11:22-65
+20    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+20-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:12:5-74
+20-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:12:22-71
+21    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+21-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:13:5-81
+21-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:13:22-78
+22    <uses-permission android:name="android.permission.CAMERA" />
+22-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:14:5-65
+22-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:14:22-62
+23    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+23-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:15:5-71
+23-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:15:22-68
+24    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+24-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:16:5-79
+24-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:16:22-76
+25    <uses-permission android:name="android.permission.INTERNET" />
+25-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:17:5-67
+25-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:17:22-64
+26    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+26-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:18:5-79
+26-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:18:22-76
+27    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+27-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:19:5-75
+27-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:19:22-73
+28
+29    <uses-feature android:name="android.hardware.camera" />
+29-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:21:5-60
+29-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:21:19-57
+30    <uses-feature android:name="android.hardware.microphone" />
+30-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:22:5-64
+30-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:22:19-61
+31    <uses-feature
+31-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:23:5-90
+32        android:name="android.hardware.bluetooth_le"
+32-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:23:19-63
+33        android:required="false" />
+33-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:23:64-88
+34
+35    <application
+35-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:25:5-155:19
+36        android:name="net.sourceforge.opencamera.multisync.OpenCameraApplication"
+36-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:29:9-46
+37        android:allowBackup="true"
+37-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:26:9-35
+38        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+38-->[com.android.support:support-compat:28.0.0] /home/andrei/.gradle/caches/transforms-2/files-2.1/ccf94a4f227dfa4f17156620e28a8b98/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+39        android:extractNativeLibs="true"
+39-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:32:9-41
+40        android:icon="@mipmap/ic_launcher"
+40-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:27:9-43
+41        android:label="Open Camera MultiSync"
+41-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:28:9-46
+42        android:largeHeap="true"
+42-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:31:9-33
+43        android:theme="@style/AppTheme" >
+43-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:30:9-40
+44
+45        <!-- should not change the android:name, including moving to a subpackage - see http://android-developers.blogspot.co.uk/2011/06/things-that-cannot-change.html -->
+46        <activity
+46-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:35:9-73:20
+47            android:name="net.sourceforge.opencamera.multisync.MainActivity"
+47-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:36:13-77
+48            android:clearTaskOnLaunch="true"
+48-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:40:13-45
+49            android:configChanges="orientation|screenSize|keyboardHidden"
+49-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:39:13-74
+50            android:label="Open Camera MultiSync"
+50-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:37:13-50
+51            android:screenOrientation="landscape" >
+51-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:38:13-50
+52
+53            <!-- clearTaskOnLaunch set to true, so if user goes to gallery then returns to home, we return to the camera rather than remaining in gallery if user relaunches Open Camera -->
+54            <intent-filter>
+54-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:43:13-47:29
+55                <action android:name="android.intent.action.MAIN" />
+55-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:44:17-69
+55-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:44:25-66
+56
+57                <category android:name="android.intent.category.LAUNCHER" />
+57-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:45:17-77
+57-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:45:27-74
+58                <category android:name="android.intent.category.DEFAULT" />
+58-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:46:17-76
+58-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:46:27-73
+59            </intent-filter>
+60            <intent-filter>
+60-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:48:13-51:29
+61                <action android:name="android.media.action.IMAGE_CAPTURE" />
+61-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:49:17-77
+61-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:49:25-74
+62
+63                <category android:name="android.intent.category.DEFAULT" />
+63-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:46:17-76
+63-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:46:27-73
+64            </intent-filter>
+65            <intent-filter>
+65-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:52:13-55:29
+66                <action android:name="android.media.action.IMAGE_CAPTURE_SECURE" />
+66-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:53:17-84
+66-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:53:25-81
+67
+68                <category android:name="android.intent.category.DEFAULT" />
+68-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:46:17-76
+68-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:46:27-73
+69            </intent-filter>
+70            <intent-filter>
+70-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:56:13-59:29
+71                <action android:name="android.media.action.STILL_IMAGE_CAMERA" />
+71-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:57:17-82
+71-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:57:25-79
+72
+73                <category android:name="android.intent.category.DEFAULT" />
+73-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:46:17-76
+73-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:46:27-73
+74            </intent-filter>
+75            <intent-filter>
+75-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:60:13-63:29
+76                <action android:name="android.media.action.STILL_IMAGE_CAMERA_SECURE" />
+76-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:61:17-89
+76-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:61:25-86
+77
+78                <category android:name="android.intent.category.DEFAULT" />
+78-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:46:17-76
+78-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:46:27-73
+79            </intent-filter>
+80            <intent-filter>
+80-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:64:13-67:29
+81                <action android:name="android.media.action.VIDEO_CAMERA" />
+81-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:65:17-76
+81-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:65:25-73
+82
+83                <category android:name="android.intent.category.DEFAULT" />
+83-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:46:17-76
+83-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:46:27-73
+84            </intent-filter>
+85            <intent-filter>
+85-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:68:13-71:29
+86                <action android:name="android.media.action.VIDEO_CAPTURE" />
+86-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:69:17-77
+86-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:69:25-74
+87
+88                <category android:name="android.intent.category.DEFAULT" />
+88-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:46:17-76
+88-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:46:27-73
+89            </intent-filter>
+90
+91            <meta-data
+91-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:72:13-97
+92                android:name="android.app.shortcuts"
+92-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:72:24-60
+93                android:resource="@xml/shortcuts" />
+93-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:72:61-94
+94        </activity>
+95        <activity
+95-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:74:9-82:20
+96            android:name="net.sourceforge.opencamera.multisync.remotecontrol.DeviceScanner"
+96-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:75:13-92
+97            android:label="@string/scan_ble" >
+97-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:76:13-45
+98            <intent-filter>
+98-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:78:13-81:29
+99                <action android:name="net.sourceforge.opencamera.multisync.Remotecontrol.DeviceScanner" />
+99-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:79:17-106
+99-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:79:25-104
+100
+101                <category android:name="android.intent.category.DEFAULT" />
+101-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:46:17-76
+101-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:46:27-73
+102            </intent-filter>
+103        </activity>
+104
+105        <!-- should not change the android:name, including moving to a subpackage - see http://android-developers.blogspot.co.uk/2011/06/things-that-cannot-change.html -->
+106        <activity
+106-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:85:9-94:20
+107            android:name="net.sourceforge.opencamera.multisync.TakePhoto"
+107-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:86:13-37
+108            android:configChanges="orientation|screenSize|keyboardHidden"
+108-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:90:13-74
+109            android:excludeFromRecents="true"
+109-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:92:13-46
+110            android:icon="@drawable/ic_launcher_take_photo"
+110-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:88:13-60
+111            android:label="@string/take_photo"
+111-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:87:13-47
+112            android:screenOrientation="landscape"
+112-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:89:13-50
+113            android:taskAffinity="" >
+113-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:91:13-36
+114        </activity>
+115        <!-- should not change the android:name, including moving to a subpackage - see http://android-developers.blogspot.co.uk/2011/06/things-that-cannot-change.html -->
+116        <receiver
+116-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:96:9-109:20
+117            android:name="net.sourceforge.opencamera.multisync.MyWidgetProvider"
+117-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:99:13-44
+118            android:icon="@mipmap/ic_launcher"
+118-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:97:13-47
+119            android:label="@string/app_name" >
+119-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:98:13-45
+120            <intent-filter>
+120-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:100:13-102:29
+121                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+121-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:101:18-85
+121-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:101:26-82
+122            </intent-filter>
+123            <!--
+124            <intent-filter> 
+125                <action android:name="net.sourceforge.opencamera.multisync.LAUNCH_OPEN_CAMERA"/> 
+126            </intent-filter>
+127            -->
+128            <meta-data
+128-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:106:13-108:54
+129                android:name="android.appwidget.provider"
+129-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:107:16-57
+130                android:resource="@xml/widget_info" />
+130-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:108:16-51
+131        </receiver>
+132        <!-- should not change the android:name, including moving to a subpackage - see http://android-developers.blogspot.co.uk/2011/06/things-that-cannot-change.html -->
+133        <receiver
+133-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:111:9-121:20
+134            android:name="net.sourceforge.opencamera.multisync.MyWidgetProviderTakePhoto"
+134-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:114:13-53
+135            android:icon="@drawable/ic_launcher_take_photo"
+135-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:112:13-60
+136            android:label="@string/take_photo" >
+136-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:113:13-47
+137            <intent-filter>
+137-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:100:13-102:29
+138                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+138-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:101:18-85
+138-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:101:26-82
+139            </intent-filter>
+140
+141            <meta-data
+141-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:106:13-108:54
+142                android:name="android.appwidget.provider"
+142-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:107:16-57
+143                android:resource="@xml/widget_info_take_photo" />
+143-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:108:16-51
+144        </receiver>
+145        <!-- should not change the android:name, including moving to a subpackage - see http://android-developers.blogspot.co.uk/2011/06/things-that-cannot-change.html -->
+146        <service
+146-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:123:9-131:19
+147            android:name="net.sourceforge.opencamera.multisync.MyTileService"
+147-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:124:13-78
+148            android:icon="@drawable/ic_photo_camera_white_48dp"
+148-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:125:13-64
+149            android:label="@string/camera"
+149-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:126:13-43
+150            android:permission="android.permission.BIND_QUICK_SETTINGS_TILE" >
+150-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:127:13-77
+151            <intent-filter>
+151-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:128:13-130:29
+152                <action android:name="android.service.quicksettings.action.QS_TILE" />
+152-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:129:17-87
+152-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:129:25-84
+153            </intent-filter>
+154        </service>
+155        <!-- should not change the android:name, including moving to a subpackage - see http://android-developers.blogspot.co.uk/2011/06/things-that-cannot-change.html -->
+156        <service
+156-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:133:9-141:19
+157            android:name="net.sourceforge.opencamera.multisync.MyTileServiceVideo"
+157-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:134:13-83
+158            android:icon="@drawable/ic_videocam_white_48dp"
+158-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:135:13-60
+159            android:label="@string/record_video"
+159-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:136:13-49
+160            android:permission="android.permission.BIND_QUICK_SETTINGS_TILE" >
+160-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:137:13-77
+161            <intent-filter>
+161-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:128:13-130:29
+162                <action android:name="android.service.quicksettings.action.QS_TILE" />
+162-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:129:17-87
+162-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:129:25-84
+163            </intent-filter>
+164        </service>
+165        <!-- should not change the android:name, including moving to a subpackage - see http://android-developers.blogspot.co.uk/2011/06/things-that-cannot-change.html -->
+166        <service
+166-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:143:9-151:19
+167            android:name="net.sourceforge.opencamera.multisync.MyTileServiceFrontCamera"
+167-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:144:13-89
+168            android:icon="@drawable/ic_face_white_48dp"
+168-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:145:13-56
+169            android:label="@string/selfie"
+169-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:146:13-43
+170            android:permission="android.permission.BIND_QUICK_SETTINGS_TILE" >
+170-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:147:13-77
+171            <intent-filter>
+171-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:128:13-130:29
+172                <action android:name="android.service.quicksettings.action.QS_TILE" />
+172-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:129:17-87
+172-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:129:25-84
+173            </intent-filter>
+174        </service>
+175        <service
+175-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:152:9-127
+176            android:name="net.sourceforge.opencamera.multisync.remotecontrol.BluetoothLeService"
+176-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:152:18-102
+177            android:enabled="true" />
+177-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:152:103-125
+178        <service
+178-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:153:9-130
+179            android:name="net.sourceforge.opencamera.multisync.remotecontrol.PeripheralRoleService"
+179-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:153:18-105
+180            android:enabled="true" />
+180-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:153:106-128
+181        <service
+181-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:154:2-128
+182            android:name="net.sourceforge.opencamera.multisync.remotecontrol.PeripheralAdvertiseService"
+182-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:154:11-103
+183            android:enabled="true" />
+183-->/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:154:104-126
+184    </application>
+185
+186</manifest>

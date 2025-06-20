@@ -1,0 +1,376 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:2:1-156:12
+INJECTED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:2:1-156:12
+INJECTED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:2:1-156:12
+INJECTED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:2:1-156:12
+MERGED from [com.android.support:support-v4:28.0.0] /home/andrei/.gradle/caches/transforms-2/files-2.1/ce2f6058b582880ec3c9aa6ee9f900c8/support-v4-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/andrei/.gradle/caches/transforms-2/files-2.1/27df1f4f4d89b5d3f90bafe68e1a11d9/support-media-compat-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/andrei/.gradle/caches/transforms-2/files-2.1/617b01740c113f7e30a40704763698d9/support-fragment-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/andrei/.gradle/caches/transforms-2/files-2.1/de983ce595cc890b2d4203f95c95cbc2/support-core-ui-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/andrei/.gradle/caches/transforms-2/files-2.1/931dc0732495a48676338e3096e222d8/support-core-utils-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/andrei/.gradle/caches/transforms-2/files-2.1/53a136253a346194954ba8d49e55508c/loader-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/andrei/.gradle/caches/transforms-2/files-2.1/0053af6d543e80f2eca2dfa34c8f8cd4/viewpager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/andrei/.gradle/caches/transforms-2/files-2.1/54d979b97cccdbacfd20983c6e6fa172/coordinatorlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/andrei/.gradle/caches/transforms-2/files-2.1/694c26a5b2f5f971c67e70ae0fee62cd/drawerlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/andrei/.gradle/caches/transforms-2/files-2.1/6686ec5f2e2ab44ae21c1eb445c99a3b/slidingpanelayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/andrei/.gradle/caches/transforms-2/files-2.1/25f9131f098f8a4ac4a98754913f6b72/customview-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/andrei/.gradle/caches/transforms-2/files-2.1/a7f0b0af0b8bf1f81bd2e824811a5547/swiperefreshlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/andrei/.gradle/caches/transforms-2/files-2.1/58f91a9ca0994ae02be35d76a8d8620d/asynclayoutinflater-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/andrei/.gradle/caches/transforms-2/files-2.1/ccf94a4f227dfa4f17156620e28a8b98/support-compat-28.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/andrei/.gradle/caches/transforms-2/files-2.1/ec51a15ecdd6ac6bc414bac2bbd5ef52/versionedparcelable-28.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/andrei/.gradle/caches/transforms-2/files-2.1/f8071bc478da969c504fd95a5be6aaf8/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/andrei/.gradle/caches/transforms-2/files-2.1/aeb7294d6d68d8c7eedcd7bf25b6a920/documentfile-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/andrei/.gradle/caches/transforms-2/files-2.1/ade294bed9caf3f29b70e263efe27c86/localbroadcastmanager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/andrei/.gradle/caches/transforms-2/files-2.1/b550f02102518269b5ae49ce098d1bbd/print-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/andrei/.gradle/caches/transforms-2/files-2.1/a0712c74e2562104cfa1829d4f9a06a2/interpolator-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/andrei/.gradle/caches/transforms-2/files-2.1/f2e189d9c9c6a4d1eca5e283d6c960d7/cursoradapter-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/andrei/.gradle/caches/transforms-2/files-2.1/ecf2828b954b598dde19702f30d5ac54/viewmodel-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/andrei/.gradle/caches/transforms-2/files-2.1/780607b29fa9b8b916b13db491ef41f2/livedata-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/andrei/.gradle/caches/transforms-2/files-2.1/178d52fd0f4d875d0c412c649f532470/livedata-core-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/andrei/.gradle/caches/transforms-2/files-2.1/d8ef00b68490a45f49fd0664d6982489/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:2:1-156:12
+INJECTED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:2:1-156:12
+INJECTED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:2:1-156:12
+	package
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:3:5-51
+		INJECTED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml
+		INJECTED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:5:5-33
+		INJECTED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml
+		INJECTED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:4:5-29
+		INJECTED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml
+		INJECTED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml
+	android:installLocation
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:6:5-35
+supports-screens
+ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:9:5-164
+	android:largeScreens
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:9:52-79
+	android:smallScreens
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:9:109-136
+	android:normalScreens
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:9:80-108
+	android:xlargeScreens
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:9:23-51
+	android:anyDensity
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:9:137-162
+uses-permission#android.permission.BLUETOOTH
+ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:11:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:12:5-74
+	android:name
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:12:22-71
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:13:22-78
+uses-permission#android.permission.CAMERA
+ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:14:5-65
+	android:name
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:14:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:15:5-71
+	android:name
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:15:22-68
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:16:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:17:5-67
+	android:name
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:17:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:18:5-79
+	android:name
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:18:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:19:5-75
+	android:name
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:19:22-73
+uses-feature#android.hardware.camera
+ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:21:5-60
+	android:name
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:21:19-57
+uses-feature#android.hardware.microphone
+ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:22:5-64
+	android:name
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:22:19-61
+uses-feature#android.hardware.bluetooth_le
+ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:23:5-90
+	android:required
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:23:64-88
+	android:name
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:23:19-63
+application
+ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:25:5-155:19
+MERGED from [com.android.support:support-compat:28.0.0] /home/andrei/.gradle/caches/transforms-2/files-2.1/ccf94a4f227dfa4f17156620e28a8b98/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/andrei/.gradle/caches/transforms-2/files-2.1/ccf94a4f227dfa4f17156620e28a8b98/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/andrei/.gradle/caches/transforms-2/files-2.1/ec51a15ecdd6ac6bc414bac2bbd5ef52/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/andrei/.gradle/caches/transforms-2/files-2.1/ec51a15ecdd6ac6bc414bac2bbd5ef52/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+	android:extractNativeLibs
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:32:9-41
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/andrei/.gradle/caches/transforms-2/files-2.1/ccf94a4f227dfa4f17156620e28a8b98/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:28:9-46
+	android:largeHeap
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:31:9-33
+	android:icon
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:27:9-43
+	android:allowBackup
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:26:9-35
+	android:theme
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:30:9-40
+	android:name
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:29:9-46
+activity#net.sourceforge.opencamera.multisync.MainActivity
+ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:35:9-73:20
+	android:screenOrientation
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:38:13-50
+	android:clearTaskOnLaunch
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:40:13-45
+	android:label
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:37:13-50
+	android:configChanges
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:39:13-74
+	android:name
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:36:13-77
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.LAUNCHER
+ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:43:13-47:29
+action#android.intent.action.MAIN
+ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:44:17-69
+	android:name
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:44:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:45:17-77
+	android:name
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:45:27-74
+category#android.intent.category.DEFAULT
+ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:46:17-76
+	android:name
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:46:27-73
+intent-filter#action:name:android.media.action.IMAGE_CAPTURE+category:name:android.intent.category.DEFAULT
+ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:48:13-51:29
+action#android.media.action.IMAGE_CAPTURE
+ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:49:17-77
+	android:name
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:49:25-74
+intent-filter#action:name:android.media.action.IMAGE_CAPTURE_SECURE+category:name:android.intent.category.DEFAULT
+ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:52:13-55:29
+action#android.media.action.IMAGE_CAPTURE_SECURE
+ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:53:17-84
+	android:name
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:53:25-81
+intent-filter#action:name:android.media.action.STILL_IMAGE_CAMERA+category:name:android.intent.category.DEFAULT
+ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:56:13-59:29
+action#android.media.action.STILL_IMAGE_CAMERA
+ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:57:17-82
+	android:name
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:57:25-79
+intent-filter#action:name:android.media.action.STILL_IMAGE_CAMERA_SECURE+category:name:android.intent.category.DEFAULT
+ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:60:13-63:29
+action#android.media.action.STILL_IMAGE_CAMERA_SECURE
+ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:61:17-89
+	android:name
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:61:25-86
+intent-filter#action:name:android.media.action.VIDEO_CAMERA+category:name:android.intent.category.DEFAULT
+ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:64:13-67:29
+action#android.media.action.VIDEO_CAMERA
+ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:65:17-76
+	android:name
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:65:25-73
+intent-filter#action:name:android.media.action.VIDEO_CAPTURE+category:name:android.intent.category.DEFAULT
+ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:68:13-71:29
+action#android.media.action.VIDEO_CAPTURE
+ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:69:17-77
+	android:name
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:69:25-74
+meta-data#android.app.shortcuts
+ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:72:13-97
+	android:resource
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:72:61-94
+	android:name
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:72:24-60
+activity#net.sourceforge.opencamera.multisync.remotecontrol.DeviceScanner
+ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:74:9-82:20
+	android:label
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:76:13-45
+	android:name
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:75:13-92
+intent-filter#action:name:net.sourceforge.opencamera.multisync.Remotecontrol.DeviceScanner+category:name:android.intent.category.DEFAULT
+ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:78:13-81:29
+action#net.sourceforge.opencamera.multisync.Remotecontrol.DeviceScanner
+ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:79:17-106
+	android:name
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:79:25-104
+activity#net.sourceforge.opencamera.multisync.TakePhoto
+ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:85:9-94:20
+	android:screenOrientation
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:89:13-50
+	android:label
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:87:13-47
+	android:excludeFromRecents
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:92:13-46
+	android:configChanges
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:90:13-74
+	android:icon
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:88:13-60
+	android:taskAffinity
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:91:13-36
+	android:name
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:86:13-37
+receiver#net.sourceforge.opencamera.multisync.MyWidgetProvider
+ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:96:9-109:20
+	android:label
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:98:13-45
+	android:icon
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:97:13-47
+	android:name
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:99:13-44
+intent-filter#action:name:android.appwidget.action.APPWIDGET_UPDATE
+ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:100:13-102:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:101:18-85
+	android:name
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:101:26-82
+meta-data#android.appwidget.provider
+ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:106:13-108:54
+	android:resource
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:108:16-51
+	android:name
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:107:16-57
+receiver#net.sourceforge.opencamera.multisync.MyWidgetProviderTakePhoto
+ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:111:9-121:20
+	android:label
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:113:13-47
+	android:icon
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:112:13-60
+	android:name
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:114:13-53
+service#net.sourceforge.opencamera.multisync.MyTileService
+ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:123:9-131:19
+	android:label
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:126:13-43
+	android:permission
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:127:13-77
+	android:icon
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:125:13-64
+	android:name
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:124:13-78
+intent-filter#action:name:android.service.quicksettings.action.QS_TILE
+ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:128:13-130:29
+action#android.service.quicksettings.action.QS_TILE
+ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:129:17-87
+	android:name
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:129:25-84
+service#net.sourceforge.opencamera.multisync.MyTileServiceVideo
+ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:133:9-141:19
+	android:label
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:136:13-49
+	android:permission
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:137:13-77
+	android:icon
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:135:13-60
+	android:name
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:134:13-83
+service#net.sourceforge.opencamera.multisync.MyTileServiceFrontCamera
+ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:143:9-151:19
+	android:label
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:146:13-43
+	android:permission
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:147:13-77
+	android:icon
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:145:13-56
+	android:name
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:144:13-89
+service#net.sourceforge.opencamera.multisync.remotecontrol.BluetoothLeService
+ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:152:9-127
+	android:enabled
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:152:103-125
+	android:name
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:152:18-102
+service#net.sourceforge.opencamera.multisync.remotecontrol.PeripheralRoleService
+ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:153:9-130
+	android:enabled
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:153:106-128
+	android:name
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:153:18-105
+service#net.sourceforge.opencamera.multisync.remotecontrol.PeripheralAdvertiseService
+ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:154:2-128
+	android:enabled
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:154:104-126
+	android:name
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml:154:11-103
+uses-sdk
+INJECTED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml
+INJECTED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-v4:28.0.0] /home/andrei/.gradle/caches/transforms-2/files-2.1/ce2f6058b582880ec3c9aa6ee9f900c8/support-v4-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/andrei/.gradle/caches/transforms-2/files-2.1/ce2f6058b582880ec3c9aa6ee9f900c8/support-v4-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/andrei/.gradle/caches/transforms-2/files-2.1/27df1f4f4d89b5d3f90bafe68e1a11d9/support-media-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/andrei/.gradle/caches/transforms-2/files-2.1/27df1f4f4d89b5d3f90bafe68e1a11d9/support-media-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/andrei/.gradle/caches/transforms-2/files-2.1/617b01740c113f7e30a40704763698d9/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/andrei/.gradle/caches/transforms-2/files-2.1/617b01740c113f7e30a40704763698d9/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/andrei/.gradle/caches/transforms-2/files-2.1/de983ce595cc890b2d4203f95c95cbc2/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/andrei/.gradle/caches/transforms-2/files-2.1/de983ce595cc890b2d4203f95c95cbc2/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/andrei/.gradle/caches/transforms-2/files-2.1/931dc0732495a48676338e3096e222d8/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/andrei/.gradle/caches/transforms-2/files-2.1/931dc0732495a48676338e3096e222d8/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/andrei/.gradle/caches/transforms-2/files-2.1/53a136253a346194954ba8d49e55508c/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/andrei/.gradle/caches/transforms-2/files-2.1/53a136253a346194954ba8d49e55508c/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/andrei/.gradle/caches/transforms-2/files-2.1/0053af6d543e80f2eca2dfa34c8f8cd4/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/andrei/.gradle/caches/transforms-2/files-2.1/0053af6d543e80f2eca2dfa34c8f8cd4/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/andrei/.gradle/caches/transforms-2/files-2.1/54d979b97cccdbacfd20983c6e6fa172/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/andrei/.gradle/caches/transforms-2/files-2.1/54d979b97cccdbacfd20983c6e6fa172/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/andrei/.gradle/caches/transforms-2/files-2.1/694c26a5b2f5f971c67e70ae0fee62cd/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/andrei/.gradle/caches/transforms-2/files-2.1/694c26a5b2f5f971c67e70ae0fee62cd/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/andrei/.gradle/caches/transforms-2/files-2.1/6686ec5f2e2ab44ae21c1eb445c99a3b/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/andrei/.gradle/caches/transforms-2/files-2.1/6686ec5f2e2ab44ae21c1eb445c99a3b/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/andrei/.gradle/caches/transforms-2/files-2.1/25f9131f098f8a4ac4a98754913f6b72/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/andrei/.gradle/caches/transforms-2/files-2.1/25f9131f098f8a4ac4a98754913f6b72/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/andrei/.gradle/caches/transforms-2/files-2.1/a7f0b0af0b8bf1f81bd2e824811a5547/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/andrei/.gradle/caches/transforms-2/files-2.1/a7f0b0af0b8bf1f81bd2e824811a5547/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/andrei/.gradle/caches/transforms-2/files-2.1/58f91a9ca0994ae02be35d76a8d8620d/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/andrei/.gradle/caches/transforms-2/files-2.1/58f91a9ca0994ae02be35d76a8d8620d/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/andrei/.gradle/caches/transforms-2/files-2.1/ccf94a4f227dfa4f17156620e28a8b98/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/andrei/.gradle/caches/transforms-2/files-2.1/ccf94a4f227dfa4f17156620e28a8b98/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/andrei/.gradle/caches/transforms-2/files-2.1/ec51a15ecdd6ac6bc414bac2bbd5ef52/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/andrei/.gradle/caches/transforms-2/files-2.1/ec51a15ecdd6ac6bc414bac2bbd5ef52/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/andrei/.gradle/caches/transforms-2/files-2.1/f8071bc478da969c504fd95a5be6aaf8/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/andrei/.gradle/caches/transforms-2/files-2.1/f8071bc478da969c504fd95a5be6aaf8/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/andrei/.gradle/caches/transforms-2/files-2.1/aeb7294d6d68d8c7eedcd7bf25b6a920/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/andrei/.gradle/caches/transforms-2/files-2.1/aeb7294d6d68d8c7eedcd7bf25b6a920/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/andrei/.gradle/caches/transforms-2/files-2.1/ade294bed9caf3f29b70e263efe27c86/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/andrei/.gradle/caches/transforms-2/files-2.1/ade294bed9caf3f29b70e263efe27c86/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/andrei/.gradle/caches/transforms-2/files-2.1/b550f02102518269b5ae49ce098d1bbd/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/andrei/.gradle/caches/transforms-2/files-2.1/b550f02102518269b5ae49ce098d1bbd/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/andrei/.gradle/caches/transforms-2/files-2.1/a0712c74e2562104cfa1829d4f9a06a2/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/andrei/.gradle/caches/transforms-2/files-2.1/a0712c74e2562104cfa1829d4f9a06a2/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/andrei/.gradle/caches/transforms-2/files-2.1/f2e189d9c9c6a4d1eca5e283d6c960d7/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/andrei/.gradle/caches/transforms-2/files-2.1/f2e189d9c9c6a4d1eca5e283d6c960d7/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/andrei/.gradle/caches/transforms-2/files-2.1/ecf2828b954b598dde19702f30d5ac54/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/andrei/.gradle/caches/transforms-2/files-2.1/ecf2828b954b598dde19702f30d5ac54/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/andrei/.gradle/caches/transforms-2/files-2.1/780607b29fa9b8b916b13db491ef41f2/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/andrei/.gradle/caches/transforms-2/files-2.1/780607b29fa9b8b916b13db491ef41f2/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/andrei/.gradle/caches/transforms-2/files-2.1/178d52fd0f4d875d0c412c649f532470/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/andrei/.gradle/caches/transforms-2/files-2.1/178d52fd0f4d875d0c412c649f532470/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/andrei/.gradle/caches/transforms-2/files-2.1/d8ef00b68490a45f49fd0664d6982489/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/andrei/.gradle/caches/transforms-2/files-2.1/d8ef00b68490a45f49fd0664d6982489/runtime-1.1.1/AndroidManifest.xml:20:5-44
+INJECTED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml
+INJECTED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml
+		INJECTED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml
+		ADDED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml
+		INJECTED from /home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/src/main/AndroidManifest.xml

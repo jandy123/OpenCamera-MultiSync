@@ -1,0 +1,4 @@
+#Fri Jun 20 15:25:10 CEST 2025
+base.0=/home/andrei/hdd/tmp/android_3d/OpenCamera-MultiSync/app/build/intermediates/dex/multisyncRelease/mergeDexMultisyncRelease/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
