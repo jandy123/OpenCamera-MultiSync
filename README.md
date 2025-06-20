@@ -68,7 +68,7 @@ This approach synchronizes both server and client to a reference time provided b
 
 With this approach, under-millisecond shooting time differences (accuracy) are consistently obtained. Unfortunately, even if the shooting time is the same (e.g., within one millisecond), the shutter lag (time since the shooting request is performed to when the capture started) still varies on both phones. To minimize shutter lag, best is to freeze unnecessary apps, overclock, enable high-performance mode, etc. On my Huawei P20 pro rig, in normal shooting conditions, with the phones in "high-performance mode", 8 out 10 photos are synchronized within 3ms accuracy. Finally, it is also possible to get feedback on the sync quality of the shots. To update the NTP offset on each phone, press the icon ![My-intro](remote.png?raw=true) on the server phone. This will automatically trigger a renewal on both server and remote phones. Latencies of 1 ms should be within reach using the esp8266 as access point/NTP server. 
 
-TODO: upload esp8266 firmware and/or sources. 
+##### TODO: upload esp8266 firmware and/or sources. 
 
 #### Phase sync
 This approach should consistently result in under-millisecond accuracy, provided proper settings can be found and maintained for each device of the stereo rig. This is based on [Libsoftwaresync](https://github.com/google-research/libsoftwaresync) by Ansari et al.
