@@ -1,3 +1,5 @@
+# OpenCamera-MultiSync
+
 ### Synchronized OpenCamera-based multiple-remote photo shooting
 
 **OpenCamera MultiSync is an Android application for shooting time-synchronized photos with multiple (identical) mobile phones based on OpenCamera.** The app has been tested on two stereo rigs based on 2x Huawei P20 pro and 2x Huawei Note 8 devices. 
